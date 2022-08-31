@@ -126,21 +126,21 @@ function onStepHit()
 
     if curStep == 822 then
         objectPlayAnimation('drone1', 'dies', true)
-        triggerEvent('Play Animation', 'shoot', 'GF')
+        triggerEvent('Play Animation', 'shoot', 'gf')
         --Might Need Code Here
     end
     
     --[[triggerEvent('Change Character','0', 'Flying Whitty Idle')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         setProperty('boyfriend.x', 1000)
         setProperty('boyfriend.y', 200)]]
     if curStep == 826 then
-        triggerEvent('Play Animation', 'shoot', 'GF')
+        triggerEvent('Play Animation', 'shoot', 'gf')
         objectPlayAnimation('drone2', 'dies', true)
     end
 
     if curStep == 828 then
-        triggerEvent('Play Animation', 'shoot', 'GF')
+        triggerEvent('Play Animation', 'shoot', 'gf')
         objectPlayAnimation('drone1', 'dies', true)
     end
 

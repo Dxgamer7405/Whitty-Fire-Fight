@@ -5,19 +5,19 @@ function goodNoteHit(id, direction, noteType, isSustainNote)
 	-- noteType: The note type string/tag
 	-- isSustainNote: If it's a hold note, can be either true or false
     if direction == 0 and noteType == "No Animation" then
-        triggerEvent('Play Animation', 'singLEFT-christ', 'BF')
+        triggerEvent('Play Animation', 'singLEFT-christ', 'bf')
     end
 
     if direction == 1 and noteType == "No Animation" then
-        triggerEvent('Play Animation', 'singDOWN-christ', 'BF')
+        triggerEvent('Play Animation', 'singDOWN-christ', 'bf')
     end
 
     if direction == 2 and noteType == "No Animation" then
-        triggerEvent('Play Animation', 'singUP-christ', 'BF')
+        triggerEvent('Play Animation', 'singUP-christ', 'bf')
     end
 
     if direction == 3 and noteType == "No Animation" then
-        triggerEvent('Play Animation', 'singRIGHT-christ', 'BF')
+        triggerEvent('Play Animation', 'singRIGHT-christ', 'bf')
     end
 
 end

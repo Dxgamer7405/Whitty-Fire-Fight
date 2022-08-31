@@ -29,7 +29,7 @@ function noteMiss(id, direction, noteType, isSustainNote)
 	-- isSustainNote: If it's a hold note, can be either true or false
     if firemiss == true then
         triggerEvent('Change Character', '0', 'BF Flame Miss' )
-        triggerEvent('Play Animation', direction , 'Bf')
+        triggerEvent('Play Animation', direction , 'bf')
         runTimer('toidle', 0.2)
     end
 end
@@ -38,7 +38,7 @@ function onTimerCompleted(tag)
     if tag == "toidle" then
         if firemiss == true then
             triggerEvent('Change Character','0', 'BF Flame')
-            triggerEvent('Play Animation','idle', 'Bf')
+            triggerEvent('Play Animation','idle', 'bf')
         end
     end        
 end
@@ -138,11 +138,11 @@ if curStep == 1487 then
         started = true
     end
     if curStep == 180 then
-        triggerEvent('Change Character', 'BF', 'BF Powerup')
+        triggerEvent('Change Character', 'bf', 'BF Powerup')
         characterPlayAnim('bf', 'idle', true)
    end
    if curStep == 188 then
-        triggerEvent('Change Character', 'BF', 'BF Flame');
+        triggerEvent('Change Character', 'bf', 'BF Flame');
         triggerEvent('Change Character', '2', 'GFNew');
         firemiss = true
         firedeath = true
@@ -205,7 +205,7 @@ if curStep == 1487 then
       removeLuaSprite('dialogueBye', true);
    end
    if curStep == 480 or curStep == 483 or curStep == 486 then
-      triggerEvent('Play Animation', 'Shock', 'Dad');
+      triggerEvent('Play Animation', 'Shock', 'dad');
    end
 end
 

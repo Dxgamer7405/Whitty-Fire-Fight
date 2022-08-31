@@ -34,25 +34,25 @@ function goodNoteHit(id, direction, noteType, isSustainNote)
 	-- isSustainNote: If it's a hold note, can be either true or false
     if direction == 0 and noteType == "" then
         triggerEvent('Change Character', '0', 'Flying Whitty Left' )
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('lefttoidle', 0.4)
 
     end
     if direction == 1 and noteType == "" then
         triggerEvent('Change Character', '0', 'Flying Whitty Down')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('downtoidle', 0.4)
     end
 
     if direction == 2 and noteType == "" then
         triggerEvent('Change Character','0', 'Flying Whitty Up')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('uptoidle', 0.4)
     end
 
     if direction == 3 and noteType == "" then
         triggerEvent('Change Character','0', 'Flying Whitty Right')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('righttoidle', 0.4)
     end
 
@@ -76,9 +76,9 @@ end
 function onStepHit()
     if curStep == 170 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
-        triggerEvent('Play Animation', 'shoot', 'Dad')
+        triggerEvent('Play Animation', 'shoot', 'dad')
         objectPlayAnimation('bullet', 'idle', true)
         
     end
@@ -87,17 +87,17 @@ function onStepHit()
 
     if curStep == 200 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
-        triggerEvent('Play Animation', 'shoot', 'Dad')
+        triggerEvent('Play Animation', 'shoot', 'dad')
         objectPlayAnimation('bullet', 'idle', true)
     end
 
     if curStep == 202 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
-        triggerEvent('Play Animation', 'shoot', 'Dad')
+        triggerEvent('Play Animation', 'shoot', 'dad')
         objectPlayAnimation('bullet', 'idle', true)
     end
 
@@ -105,7 +105,7 @@ function onStepHit()
 
     if curStep == 444 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
     end
 
@@ -113,42 +113,42 @@ function onStepHit()
 
     if curStep == 468 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
     end
     if curStep == 469 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
     end
     if curStep == 472 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
     end
 
     if curStep == 476 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
     end
     
     
     if curStep == 594 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
     end
 
     if curStep == 596 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9)
     end
 
     if curStep == 600 then
         triggerEvent('Change Character','0', 'Flying Whitty Hit')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('hittoidle', 0.9) 
     end
 end
@@ -162,7 +162,7 @@ function onTimerCompleted(tag)
     if tag == "screamtoidle" then
         if boyfriendName == 'Flying Whitty Scream' then
             triggerEvent('Change Character','0', 'Flying Whitty Idle')
-            triggerEvent('Play Animation','idle', 'Bf')
+            triggerEvent('Play Animation','idle', 'bf')
             setProperty('boyfriend.x', 1000)
             setProperty('boyfriend.y', 200)
             
@@ -172,7 +172,7 @@ function onTimerCompleted(tag)
     if tag == "uptoidle" then
         if boyfriendName == 'Flying Whitty Up' then
             triggerEvent('Change Character','0', 'Flying Whitty Idle')
-            triggerEvent('Play Animation','idle', 'Bf')
+            triggerEvent('Play Animation','idle', 'bf')
             setProperty('boyfriend.x', 1000)
             setProperty('boyfriend.y', 200)
         end
@@ -181,7 +181,7 @@ function onTimerCompleted(tag)
     if tag == "downtoidle" then
         if boyfriendName == 'Flying Whitty Down' then
             triggerEvent('Change Character','0', 'Flying Whitty Idle')
-            triggerEvent('Play Animation','idle', 'Bf')
+            triggerEvent('Play Animation','idle', 'bf')
             setProperty('boyfriend.x', 1000)
             setProperty('boyfriend.y', 200)
         end
@@ -189,7 +189,7 @@ function onTimerCompleted(tag)
     if tag == "lefttoidle" then
         if boyfriendName == 'Flying Whitty Left' then
             triggerEvent('Change Character','0', 'Flying Whitty Idle')
-            triggerEvent('Play Animation','idle', 'Bf')
+            triggerEvent('Play Animation','idle', 'bf')
             setProperty('boyfriend.x', 1000)
             setProperty('boyfriend.y', 200)
         end
@@ -198,7 +198,7 @@ function onTimerCompleted(tag)
     if tag == "righttoidle" then
         if boyfriendName == 'Flying Whitty Right' then
             triggerEvent('Change Character','0', 'Flying Whitty Idle')
-            triggerEvent('Play Animation','idle', 'Bf')
+            triggerEvent('Play Animation','idle', 'bf')
             setProperty('boyfriend.x', 1000)
             setProperty('boyfriend.y', 200)
         end
@@ -207,7 +207,7 @@ function onTimerCompleted(tag)
     if tag == "hittoidle" then
         if boyfriendName == 'Flying Whitty Hit' then
             triggerEvent('Change Character','0', 'Flying Whitty Idle')
-            triggerEvent('Play Animation','idle', 'Bf')
+            triggerEvent('Play Animation','idle', 'bf')
             setProperty('boyfriend.x', 1000)
             setProperty('boyfriend.y', 200)
         end
@@ -216,7 +216,7 @@ function onTimerCompleted(tag)
     if tag == "shoottoidle" then
         if boyfriendName == 'Flying Whitty Shoot' then
             triggerEvent('Change Character','0', 'Flying Whitty Idle')
-            triggerEvent('Play Animation','idle', 'Bf')
+            triggerEvent('Play Animation','idle', 'bf')
             setProperty('boyfriend.x', 1000)
             setProperty('boyfriend.y', 200)
         end

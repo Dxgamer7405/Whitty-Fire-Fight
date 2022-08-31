@@ -8,7 +8,7 @@ end
 
 function onStepHit()
     if curStep == 832 then
-        triggerEvent('Play Animation','throw', 'Gf')
+        triggerEvent('Play Animation','throw', 'gf')
 --sunday throw
     end
     if curStep == 840 then
@@ -18,7 +18,7 @@ function onStepHit()
     end
     if curStep == 848 then
         triggerEvent('Change Character','0', 'Flying Whitty Catch')
-        triggerEvent('Play Animation','idle', 'Bf')
+        triggerEvent('Play Animation','idle', 'bf')
         runTimer('catchtoidle', 0.6)
         setProperty('boyfriend.x', 1000)
         setProperty('boyfriend.y', 200)
@@ -31,7 +31,7 @@ function onTimerCompleted(tag)
     if tag == "catchtoidle" then
         if boyfriendName == 'Flying Whitty Catch' then
             triggerEvent('Change Character','0', 'Flying Whitty Idle')
-            triggerEvent('Play Animation','idle', 'Bf')
+            triggerEvent('Play Animation','idle', 'bf')
             setProperty('boyfriend.x', 1000)
             setProperty('boyfriend.y', 200)
         end

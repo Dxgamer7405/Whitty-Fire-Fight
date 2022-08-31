@@ -420,13 +420,6 @@ function onTweenCompleted(tag)
 	end
 end
 
-function onGameOver()
-	removeLuaText('hold1')
-	return Function_Continue;
-end
-
-
-
 function goodNoteHit()
 	if getProperty('shrapnelhead1.x') == 250 then
         doTweenX('shrapnelheadleft','shrapnelhead1', 900, 0.5, "expoOut")

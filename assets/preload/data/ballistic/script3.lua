@@ -15,13 +15,13 @@ function opponentNoteHit(id, direction, noteType, isSustainNote)
 
         if direction == 3 or direction == 1 then
             triggerEvent('Change Character', '0', 'bf-ice-hit')
-            triggerEvent('Play Animation', 'hits1', 'BF')
+            triggerEvent('Play Animation', 'hits1', 'bf')
             runTimer('downtoidle', 0.3)
         end
 
         if direction == 2 or direction == 0 then
             triggerEvent('Change Character', '0', 'bf-ice-hit')
-            triggerEvent('Play Animation', 'hits2', 'BF')
+            triggerEvent('Play Animation', 'hits2', 'bf')
             runTimer('downtoidle', 0.3)
         end
     end

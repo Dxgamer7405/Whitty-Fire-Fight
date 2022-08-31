@@ -250,7 +250,7 @@ function onStepHit()
 
 
     if curStep == 448 then
-        triggerEvent('Alt Idle Animation', 'BF', '-christ-norm')
+        triggerEvent('Alt Idle Animation', 'bf', '-christ-norm')
         setProperty('picobg.visible',false)
         removeLuaSprite('picobg', true);
         setProperty('monsterbg.visible', true)
@@ -261,12 +261,12 @@ function onStepHit()
     end
 
     if curStep == 455 then
-        triggerEvent('Alt Idle Animation', 'BF', '-christ')
+        triggerEvent('Alt Idle Animation', 'bf', '-christ')
     end
 
     if curStep == 480 then
-        triggerEvent('Play Animation', 'idle', 'BF')
-        triggerEvent('Alt Idle Animation', 'BF', '')
+        triggerEvent('Play Animation', 'idle', 'bf')
+        triggerEvent('Alt Idle Animation', 'bf', '')
         setProperty('tankbg.visible',true)
          removeLuaSprite('monsterbg', true);
         setProperty('monsterbg.visible', false)
