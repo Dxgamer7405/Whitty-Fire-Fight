@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fire 1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Small flame0000" x="0" y="0" width="288" height="139" frameX="-1" frameY="0" frameWidth="295" frameHeight="139"/>
+	<SubTexture name="Small flame0001" x="0" y="0" width="288" height="139" frameX="-1" frameY="0" frameWidth="295" frameHeight="139"/>
+	<SubTexture name="Small flame0002" x="298" y="0" width="286" height="121" frameX="0" frameY="-16" frameWidth="295" frameHeight="139"/>
+	<SubTexture name="Small flame0003" x="298" y="0" width="286" height="121" frameX="0" frameY="-16" frameWidth="295" frameHeight="139"/>
+	<SubTexture name="Small flame0004" x="594" y="0" width="290" height="96" frameX="-1" frameY="-43" frameWidth="295" frameHeight="139"/>
+	<SubTexture name="Small flame0005" x="594" y="0" width="290" height="96" frameX="-1" frameY="-43" frameWidth="295" frameHeight="139"/>
+	<SubTexture name="Small flame0006" x="0" y="149" width="292" height="80" frameX="-3" frameY="-57" frameWidth="295" frameHeight="139"/>
+	<SubTexture name="Small flame0007" x="0" y="149" width="292" height="80" frameX="-3" frameY="-57" frameWidth="295" frameHeight="139"/>
+	<SubTexture name="Small flame0008" x="302" y="149" width="287" height="110" frameX="-6" frameY="-28" frameWidth="295" frameHeight="139"/>
+	<SubTexture name="Small flame0009" x="302" y="149" width="287" height="110" frameX="-6" frameY="-28" frameWidth="295" frameHeight="139"/>
+</TextureAtlas>

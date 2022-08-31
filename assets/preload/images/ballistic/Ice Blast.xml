@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ice Blast Down.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ice Blast Down0000" x="0" y="0" width="344" height="92" frameX="-722" frameY="-385" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0001" x="352" y="0" width="423" height="458" frameX="-113" frameY="-34" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0002" x="783" y="0" width="457" height="488" frameX="-94" frameY="-25" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0003" x="1248" y="0" width="588" height="535" frameX="-37" frameY="-4" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0004" x="0" y="543" width="644" height="545" frameX="-11" frameY="-1" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0005" x="652" y="543" width="655" height="560" frameX="-1" frameY="0" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0006" x="1315" y="543" width="656" height="563" frameX="0" frameY="-2" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0007" x="0" y="1114" width="611" height="356" frameX="-49" frameY="-97" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0008" x="619" y="1114" width="275" height="217" frameX="-132" frameY="-238" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0009" x="902" y="1114" width="0" height="0" frameX="-777" frameY="-499" frameWidth="1066" frameHeight="565"/>
+	<SubTexture name="Ice Blast Down0010" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

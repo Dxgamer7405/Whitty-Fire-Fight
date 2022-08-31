@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Snow Blast.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Snow Blast0000" x="0" y="0" width="2647" height="1511" frameX="0" frameY="0" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0001" x="2655" y="0" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0002" x="5358" y="0" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0003" x="0" y="1519" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0004" x="2703" y="1519" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0005" x="5406" y="1519" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0006" x="0" y="3024" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0007" x="2703" y="3024" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0008" x="5406" y="3024" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0009" x="0" y="4529" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0010" x="2703" y="4529" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+	<SubTexture name="Snow Blast0011" x="5406" y="4529" width="2695" height="1497" frameX="-351" frameY="-102" frameWidth="3046" frameHeight="1599"/>
+</TextureAtlas>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFB.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF bop happy (ballistic timing)0000" x="0" y="0" width="318" height="418" frameX="-14" frameY="-8" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0001" x="318" y="0" width="307" height="426" frameX="-20" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0002" x="625" y="0" width="322" height="426" frameX="-7" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0003" x="947" y="0" width="329" height="426" frameX="-1" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0004" x="1276" y="0" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0005" x="1276" y="0" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0006" x="1606" y="0" width="332" height="423" frameX="0" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0007" x="1938" y="0" width="334" height="414" frameX="-4" frameY="-12" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0008" x="2272" y="0" width="316" height="421" frameX="-27" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0009" x="2588" y="0" width="310" height="422" frameX="-36" frameY="-4" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0010" x="2898" y="0" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0011" x="2898" y="0" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0012" x="3208" y="0" width="310" height="423" frameX="-32" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop happy (ballistic timing)0013" x="3518" y="0" width="315" height="421" frameX="-25" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0000" x="0" y="426" width="318" height="418" frameX="-14" frameY="-8" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0001" x="318" y="426" width="307" height="426" frameX="-20" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0002" x="625" y="426" width="322" height="426" frameX="-7" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0003" x="947" y="426" width="329" height="426" frameX="-1" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0004" x="1276" y="426" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0005" x="1276" y="426" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0006" x="1606" y="426" width="332" height="423" frameX="0" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0007" x="1938" y="426" width="334" height="414" frameX="-4" frameY="-12" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0008" x="2272" y="426" width="316" height="421" frameX="-27" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0009" x="2588" y="426" width="310" height="422" frameX="-36" frameY="-4" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0010" x="2898" y="426" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0011" x="2898" y="426" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0012" x="3208" y="426" width="310" height="423" frameX="-32" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left B speed0013" x="3518" y="426" width="315" height="421" frameX="-25" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0000" x="0" y="852" width="318" height="418" frameX="-14" frameY="-8" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0001" x="318" y="852" width="307" height="426" frameX="-20" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0002" x="625" y="852" width="322" height="426" frameX="-7" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0003" x="947" y="852" width="329" height="426" frameX="-1" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0004" x="947" y="852" width="329" height="426" frameX="-1" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0005" x="1276" y="852" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0006" x="1606" y="852" width="332" height="423" frameX="0" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0007" x="1938" y="852" width="334" height="414" frameX="-4" frameY="-12" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0008" x="2272" y="852" width="316" height="421" frameX="-27" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0009" x="2588" y="852" width="310" height="422" frameX="-36" frameY="-4" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0010" x="2588" y="852" width="310" height="422" frameX="-36" frameY="-4" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0011" x="2898" y="852" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0012" x="3208" y="852" width="310" height="423" frameX="-32" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look left concerned b speed0013" x="3518" y="852" width="315" height="421" frameX="-25" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0000" x="0" y="1278" width="318" height="418" frameX="-14" frameY="-8" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0001" x="318" y="1278" width="307" height="426" frameX="-20" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0002" x="625" y="1278" width="322" height="426" frameX="-7" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0003" x="947" y="1278" width="329" height="426" frameX="-1" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0004" x="1276" y="1278" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0005" x="1276" y="1278" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0006" x="1606" y="1278" width="332" height="423" frameX="0" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0007" x="1938" y="1278" width="334" height="414" frameX="-4" frameY="-12" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0008" x="2272" y="1278" width="316" height="421" frameX="-27" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0009" x="2588" y="1278" width="310" height="422" frameX="-36" frameY="-4" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0010" x="2898" y="1278" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0011" x="2898" y="1278" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0012" x="3208" y="1278" width="310" height="423" frameX="-32" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right B speed0013" x="3518" y="1278" width="315" height="421" frameX="-25" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0000" x="0" y="1704" width="318" height="418" frameX="-14" frameY="-8" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0001" x="318" y="1704" width="307" height="426" frameX="-20" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0002" x="625" y="1704" width="322" height="426" frameX="-7" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0003" x="947" y="1704" width="329" height="426" frameX="-1" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0004" x="947" y="1704" width="329" height="426" frameX="-1" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0005" x="1276" y="1704" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0006" x="1606" y="1704" width="332" height="423" frameX="0" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0007" x="1938" y="1704" width="334" height="414" frameX="-4" frameY="-12" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0008" x="2272" y="1704" width="316" height="421" frameX="-27" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0009" x="2588" y="1704" width="310" height="422" frameX="-36" frameY="-4" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0010" x="2588" y="1704" width="310" height="422" frameX="-36" frameY="-4" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0011" x="2898" y="1704" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0012" x="3208" y="1704" width="310" height="423" frameX="-32" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look right nervouse b speed 0013" x="3518" y="1704" width="315" height="421" frameX="-25" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0000" x="0" y="2130" width="318" height="418" frameX="-14" frameY="-8" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0001" x="318" y="2130" width="307" height="426" frameX="-20" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0002" x="625" y="2130" width="322" height="426" frameX="-7" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0003" x="947" y="2130" width="329" height="426" frameX="-1" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0004" x="947" y="2130" width="329" height="426" frameX="-1" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0005" x="1276" y="2130" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0006" x="1276" y="2130" width="330" height="426" frameX="0" frameY="0" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0007" x="1606" y="2130" width="332" height="423" frameX="0" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0008" x="1938" y="2130" width="334" height="414" frameX="-4" frameY="-12" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0009" x="2272" y="2130" width="316" height="421" frameX="-27" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0010" x="2588" y="2130" width="310" height="422" frameX="-36" frameY="-4" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0011" x="2588" y="2130" width="310" height="422" frameX="-36" frameY="-4" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0012" x="2898" y="2130" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0013" x="2898" y="2130" width="310" height="421" frameX="-34" frameY="-5" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0014" x="3208" y="2130" width="310" height="423" frameX="-32" frameY="-3" frameWidth="346" frameHeight="426"/>
+	<SubTexture name="GF bop look up O_O0015" x="3518" y="2130" width="315" height="421" frameX="-25" frameY="-5" frameWidth="346" frameHeight="426"/>
+</TextureAtlas>

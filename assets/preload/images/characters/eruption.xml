@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eruption.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whitty in eruption0000" x="0" y="0" width="921" height="1269" frameX="-31" frameY="-18" frameWidth="1017" frameHeight="1298"/>
+	<SubTexture name="Whitty in eruption0001" x="921" y="0" width="946" height="1287" frameX="0" frameY="-8" frameWidth="1017" frameHeight="1298"/>
+	<SubTexture name="Whitty in eruption0002" x="1867" y="0" width="891" height="1281" frameX="-54" frameY="-6" frameWidth="1017" frameHeight="1298"/>
+	<SubTexture name="Whitty in eruption0003" x="2758" y="0" width="970" height="1298" frameX="-47" frameY="0" frameWidth="1017" frameHeight="1298"/>
+	<SubTexture name="Whitty in eruption0004" x="0" y="1298" width="921" height="1269" frameX="-31" frameY="-18" frameWidth="1017" frameHeight="1298"/>
+</TextureAtlas>

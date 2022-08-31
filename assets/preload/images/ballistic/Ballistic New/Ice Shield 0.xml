@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ice Shield 0.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Begin Shield Exit0000" x="0" y="0" width="402" height="514" frameX="-177" frameY="-18" frameWidth="660" frameHeight="569"/>
+	<SubTexture name="Begin Shield Exit0001" x="410" y="0" width="458" height="492" frameX="-107" frameY="-25" frameWidth="660" frameHeight="569"/>
+	<SubTexture name="Begin Shield Exit0002" x="876" y="0" width="588" height="540" frameX="-34" frameY="-3" frameWidth="660" frameHeight="569"/>
+	<SubTexture name="Begin Shield Exit0003" x="0" y="548" width="644" height="550" frameX="-4" frameY="0" frameWidth="660" frameHeight="569"/>
+	<SubTexture name="Begin Shield Exit0004" x="652" y="548" width="656" height="564" frameX="-3" frameY="0" frameWidth="660" frameHeight="569"/>
+	<SubTexture name="Begin Shield Exit0005" x="1316" y="548" width="656" height="568" frameX="-4" frameY="-1" frameWidth="660" frameHeight="569"/>
+	<SubTexture name="Begin Shield Exit0006" x="0" y="1124" width="609" height="364" frameX="0" frameY="-93" frameWidth="660" frameHeight="569"/>
+	<SubTexture name="Begin Shield Exit0007" x="617" y="1124" width="271" height="223" frameX="-254" frameY="-237" frameWidth="660" frameHeight="569"/>
+	<SubTexture name="Begin Shield Idle0000" x="896" y="1124" width="402" height="514"/>
+</TextureAtlas>

@@ -1,0 +1,120 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				-47
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "whitty sing note right"
+		},
+		{
+			"offsets": [
+				51,
+				97
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Whitty Sing Note UP"
+		},
+		{
+			"offsets": [
+				135,
+				54
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Whitty Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				-50
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Whitty Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-180,
+				-50
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Sing Right Ballistic"
+		},
+		{
+			"offsets": [
+				60,
+				-50
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Sing Left Ballistic"
+		},
+		{
+			"offsets": [
+				-100,
+				-60
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Sing Down Ballistic"
+		},
+		{
+			"offsets": [
+				-30,
+				160
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up Ballistic"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "Whitty idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitcrae",
+	"position": [
+		-60,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		206, 0, 44
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

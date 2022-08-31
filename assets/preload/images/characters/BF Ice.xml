@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF Ice.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Ice Bomb Throw0000" x="0" y="0" width="616" height="454" frameX="-783" frameY="-336" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0001" x="616" y="0" width="613" height="485" frameX="-786" frameY="-305" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0002" x="1229" y="0" width="1080" height="1028" frameX="-768" frameY="0" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0003" x="2309" y="0" width="905" height="862" frameX="-855" frameY="-83" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0004" x="3214" y="0" width="749" height="712" frameX="-1028" frameY="-162" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0005" x="3963" y="0" width="698" height="578" frameX="-1050" frameY="-232" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0006" x="4661" y="0" width="702" height="539" frameX="-1050" frameY="-248" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0007" x="5363" y="0" width="713" height="503" frameX="-1049" frameY="-285" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0008" x="6076" y="0" width="744" height="450" frameX="-1049" frameY="-338" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0009" x="6820" y="0" width="742" height="482" frameX="-1049" frameY="-306" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0010" x="0" y="1028" width="727" height="443" frameX="-1050" frameY="-343" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0011" x="727" y="1028" width="692" height="451" frameX="-1050" frameY="-335" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0012" x="1419" y="1028" width="592" height="442" frameX="-1025" frameY="-348" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0013" x="2011" y="1028" width="589" height="442" frameX="-1025" frameY="-348" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0014" x="2600" y="1028" width="859" height="476" frameX="-497" frameY="-294" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0015" x="3459" y="1028" width="1345" height="617" frameX="0" frameY="-153" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0016" x="4804" y="1028" width="390" height="383" frameX="-955" frameY="-387" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0017" x="5194" y="1028" width="390" height="383" frameX="-955" frameY="-387" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0018" x="5584" y="1028" width="347" height="392" frameX="-1017" frameY="-387" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0019" x="5931" y="1028" width="347" height="392" frameX="-1017" frameY="-387" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0020" x="6278" y="1028" width="347" height="392" frameX="-1017" frameY="-387" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0021" x="6625" y="1028" width="378" height="414" frameX="-1036" frameY="-376" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0022" x="7003" y="1028" width="378" height="414" frameX="-1036" frameY="-376" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0023" x="7381" y="1028" width="422" height="416" frameX="-1012" frameY="-374" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0024" x="0" y="1645" width="422" height="416" frameX="-1012" frameY="-374" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0025" x="422" y="1645" width="423" height="416" frameX="-1012" frameY="-374" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice Bomb Throw0026" x="845" y="1645" width="423" height="416" frameX="-1012" frameY="-374" frameWidth="1848" frameHeight="1028"/>
+	<SubTexture name="BF Ice HEY!! 0000" x="1268" y="1645" width="381" height="417" frameX="-2" frameY="0" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0001" x="1649" y="1645" width="381" height="417" frameX="-2" frameY="0" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0002" x="2030" y="1645" width="377" height="411" frameX="0" frameY="-8" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0003" x="2407" y="1645" width="377" height="411" frameX="0" frameY="-8" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0004" x="2784" y="1645" width="386" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0005" x="3170" y="1645" width="386" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0006" x="3556" y="1645" width="388" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0007" x="3944" y="1645" width="388" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0008" x="4332" y="1645" width="388" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0009" x="4720" y="1645" width="388" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0010" x="5108" y="1645" width="388" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0011" x="5496" y="1645" width="388" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0012" x="5884" y="1645" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0013" x="6257" y="1645" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0014" x="6630" y="1645" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0015" x="7003" y="1645" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0016" x="7376" y="1645" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0017" x="7749" y="1645" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0018" x="0" y="2062" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0019" x="373" y="2062" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0020" x="746" y="2062" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0021" x="1119" y="2062" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0022" x="1492" y="2062" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0023" x="1865" y="2062" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0024" x="2238" y="2062" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HEY!! 0025" x="2611" y="2062" width="373" height="412" frameX="0" frameY="-7" frameWidth="388" frameHeight="419"/>
+	<SubTexture name="BF Ice HIT0000" x="2984" y="2062" width="363" height="425" frameX="-36" frameY="0" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0001" x="3347" y="2062" width="422" height="407" frameX="-19" frameY="-13" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0002" x="3769" y="2062" width="447" height="407" frameX="-3" frameY="-13" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0003" x="4216" y="2062" width="462" height="397" frameX="0" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0004" x="4678" y="2062" width="461" height="397" frameX="-2" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0005" x="5139" y="2062" width="455" height="397" frameX="-8" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0006" x="5594" y="2062" width="400" height="397" frameX="-11" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0007" x="5994" y="2062" width="399" height="397" frameX="-13" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0008" x="6393" y="2062" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0009" x="6774" y="2062" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0010" x="7155" y="2062" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0011" x="7536" y="2062" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0012" x="0" y="2487" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0013" x="381" y="2487" width="387" height="406" frameX="-25" frameY="-14" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0014" x="768" y="2487" width="387" height="406" frameX="-25" frameY="-14" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0015" x="1155" y="2487" width="389" height="415" frameX="-27" frameY="-9" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0016" x="1544" y="2487" width="389" height="415" frameX="-27" frameY="-9" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0017" x="1933" y="2487" width="398" height="416" frameX="-27" frameY="-8" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0018" x="2331" y="2487" width="398" height="416" frameX="-27" frameY="-8" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0019" x="2729" y="2487" width="398" height="416" frameX="-27" frameY="-8" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0020" x="3127" y="2487" width="398" height="416" frameX="-27" frameY="-8" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIt down 0000" x="3525" y="2487" width="521" height="366" frameX="-26" frameY="-10" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0001" x="4046" y="2487" width="573" height="312" frameX="-5" frameY="-61" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0002" x="4619" y="2487" width="591" height="325" frameX="0" frameY="-49" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0003" x="5210" y="2487" width="590" height="325" frameX="-2" frameY="-49" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0004" x="5800" y="2487" width="587" height="330" frameX="-6" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0005" x="6387" y="2487" width="524" height="330" frameX="-9" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0006" x="6911" y="2487" width="452" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0007" x="7363" y="2487" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0008" x="0" y="2903" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0009" x="438" y="2903" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0010" x="876" y="2903" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0011" x="1314" y="2903" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0012" x="1752" y="2903" width="430" height="344" frameX="-71" frameY="-32" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0013" x="2182" y="2903" width="430" height="344" frameX="-71" frameY="-32" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0014" x="2612" y="2903" width="451" height="377" frameX="-67" frameY="0" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0015" x="3063" y="2903" width="451" height="377" frameX="-67" frameY="0" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice Idle0000" x="3514" y="2903" width="434" height="403" frameX="0" frameY="-12" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0001" x="3948" y="2903" width="434" height="403" frameX="0" frameY="-12" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0002" x="4382" y="2903" width="428" height="402" frameX="-4" frameY="-13" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0003" x="4810" y="2903" width="428" height="402" frameX="-4" frameY="-13" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0004" x="5238" y="2903" width="425" height="404" frameX="-8" frameY="-12" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0005" x="5663" y="2903" width="424" height="404" frameX="-8" frameY="-12" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0006" x="6087" y="2903" width="424" height="408" frameX="-10" frameY="-8" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0007" x="6511" y="2903" width="424" height="408" frameX="-10" frameY="-8" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0008" x="6935" y="2903" width="402" height="414" frameX="-38" frameY="-2" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0009" x="7337" y="2903" width="402" height="414" frameX="-38" frameY="-2" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0010" x="7739" y="2903" width="402" height="416" frameX="-38" frameY="0" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0011" x="0" y="3319" width="396" height="416" frameX="-38" frameY="0" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0012" x="396" y="3319" width="396" height="416" frameX="-38" frameY="0" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle0013" x="792" y="3319" width="396" height="416" frameX="-38" frameY="0" frameWidth="440" frameHeight="416"/>
+	<SubTexture name="BF Ice Idle Tired0000" x="1188" y="3319" width="358" height="388" frameX="-1" frameY="0" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0001" x="1546" y="3319" width="358" height="388" frameX="-1" frameY="0" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0002" x="1904" y="3319" width="358" height="388" frameX="-1" frameY="0" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0003" x="2262" y="3319" width="358" height="388" frameX="-1" frameY="0" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0004" x="2620" y="3319" width="356" height="387" frameX="0" frameY="-1" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0005" x="2976" y="3319" width="356" height="387" frameX="0" frameY="-1" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0006" x="3332" y="3319" width="356" height="387" frameX="0" frameY="-1" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0007" x="3688" y="3319" width="356" height="387" frameX="0" frameY="-1" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0008" x="4044" y="3319" width="358" height="386" frameX="-1" frameY="-2" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0009" x="4402" y="3319" width="358" height="386" frameX="-1" frameY="-2" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0010" x="4760" y="3319" width="358" height="386" frameX="-1" frameY="-2" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0011" x="5118" y="3319" width="358" height="386" frameX="-1" frameY="-2" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0012" x="5476" y="3319" width="361" height="387" frameX="-1" frameY="-1" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0013" x="5837" y="3319" width="361" height="387" frameX="-1" frameY="-1" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0014" x="6198" y="3319" width="361" height="387" frameX="-1" frameY="-1" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0015" x="6559" y="3319" width="361" height="387" frameX="-1" frameY="-1" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0016" x="6920" y="3319" width="360" height="388" frameX="-1" frameY="0" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0017" x="7280" y="3319" width="360" height="388" frameX="-1" frameY="0" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0018" x="7640" y="3319" width="360" height="388" frameX="-1" frameY="0" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Idle Tired0019" x="0" y="3735" width="360" height="388" frameX="-1" frameY="0" frameWidth="362" frameHeight="388"/>
+	<SubTexture name="BF Ice Sing Down 0000" x="360" y="3735" width="534" height="470" frameX="0" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0001" x="894" y="3735" width="527" height="469" frameX="-7" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0002" x="1421" y="3735" width="523" height="468" frameX="-11" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0003" x="1944" y="3735" width="522" height="468" frameX="-12" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0004" x="2466" y="3735" width="522" height="468" frameX="-12" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0005" x="2988" y="3735" width="527" height="469" frameX="-7" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0006" x="3515" y="3735" width="527" height="469" frameX="-7" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0007" x="4042" y="3735" width="532" height="473" frameX="-2" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0008" x="4574" y="3735" width="493" height="411" frameX="-2" frameY="-62" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0009" x="5067" y="3735" width="492" height="416" frameX="-3" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0010" x="5559" y="3735" width="491" height="416" frameX="-3" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0011" x="6050" y="3735" width="424" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0012" x="6474" y="3735" width="424" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0013" x="6898" y="3735" width="428" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0014" x="7326" y="3735" width="428" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down 0015" x="7754" y="3735" width="428" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0000" x="0" y="4208" width="534" height="470" frameX="0" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0001" x="534" y="4208" width="527" height="469" frameX="-7" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0002" x="1061" y="4208" width="523" height="468" frameX="-11" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0003" x="1584" y="4208" width="522" height="468" frameX="-12" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0004" x="2106" y="4208" width="522" height="468" frameX="-12" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0005" x="2628" y="4208" width="527" height="469" frameX="-7" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0006" x="3155" y="4208" width="527" height="469" frameX="-7" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0007" x="3682" y="4208" width="532" height="473" frameX="-2" frameY="0" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0008" x="4214" y="4208" width="493" height="411" frameX="-2" frameY="-62" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0009" x="4707" y="4208" width="492" height="416" frameX="-3" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0010" x="5199" y="4208" width="491" height="416" frameX="-3" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0011" x="5690" y="4208" width="424" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0012" x="6114" y="4208" width="424" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0013" x="6538" y="4208" width="428" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0014" x="6966" y="4208" width="428" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Down Tired0015" x="7394" y="4208" width="428" height="416" frameX="-70" frameY="-57" frameWidth="534" frameHeight="473"/>
+	<SubTexture name="BF Ice Sing Left0000" x="0" y="4681" width="397" height="412" frameX="0" frameY="-4" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0001" x="397" y="4681" width="438" height="409" frameX="-16" frameY="-7" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0002" x="835" y="4681" width="437" height="406" frameX="-36" frameY="-10" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0003" x="1272" y="4681" width="448" height="404" frameX="-38" frameY="-12" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0004" x="1720" y="4681" width="448" height="404" frameX="-38" frameY="-12" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0005" x="2168" y="4681" width="420" height="404" frameX="-49" frameY="-12" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0006" x="2588" y="4681" width="420" height="404" frameX="-49" frameY="-12" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0007" x="3008" y="4681" width="400" height="414" frameX="-60" frameY="-2" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0008" x="3408" y="4681" width="400" height="414" frameX="-60" frameY="-2" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0009" x="3808" y="4681" width="397" height="416" frameX="-60" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0010" x="4205" y="4681" width="423" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0011" x="4628" y="4681" width="423" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0012" x="5051" y="4681" width="426" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0013" x="5477" y="4681" width="426" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0014" x="5903" y="4681" width="426" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left0015" x="6329" y="4681" width="421" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0000" x="6750" y="4681" width="397" height="412" frameX="0" frameY="-4" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0001" x="7147" y="4681" width="438" height="409" frameX="-16" frameY="-7" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0002" x="7585" y="4681" width="437" height="406" frameX="-36" frameY="-10" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0003" x="0" y="5097" width="448" height="404" frameX="-38" frameY="-12" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0004" x="448" y="5097" width="448" height="404" frameX="-38" frameY="-12" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0005" x="896" y="5097" width="420" height="404" frameX="-49" frameY="-12" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0006" x="1316" y="5097" width="420" height="404" frameX="-49" frameY="-12" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0007" x="1736" y="5097" width="400" height="414" frameX="-60" frameY="-2" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0008" x="2136" y="5097" width="400" height="414" frameX="-60" frameY="-2" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0009" x="2536" y="5097" width="397" height="416" frameX="-60" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0010" x="2933" y="5097" width="423" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0011" x="3356" y="5097" width="423" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0012" x="3779" y="5097" width="426" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0013" x="4205" y="5097" width="426" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0014" x="4631" y="5097" width="426" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Left Tired0015" x="5057" y="5097" width="421" height="416" frameX="-34" frameY="0" frameWidth="486" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0000" x="5478" y="5097" width="406" height="410" frameX="-29" frameY="-6" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0001" x="5884" y="5097" width="408" height="405" frameX="-29" frameY="-11" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0002" x="6292" y="5097" width="407" height="403" frameX="-28" frameY="-13" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0003" x="6699" y="5097" width="400" height="403" frameX="-28" frameY="-13" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0004" x="7099" y="5097" width="400" height="403" frameX="-28" frameY="-13" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0005" x="7499" y="5097" width="392" height="407" frameX="-27" frameY="-9" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0006" x="0" y="5513" width="392" height="407" frameX="-27" frameY="-9" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0007" x="392" y="5513" width="384" height="415" frameX="-26" frameY="-1" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0008" x="776" y="5513" width="389" height="415" frameX="-26" frameY="-1" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0009" x="1165" y="5513" width="398" height="416" frameX="-26" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0010" x="1563" y="5513" width="398" height="416" frameX="-26" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0011" x="1961" y="5513" width="398" height="416" frameX="-26" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0012" x="2359" y="5513" width="424" height="416" frameX="0" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0013" x="2783" y="5513" width="424" height="416" frameX="0" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0014" x="3207" y="5513" width="428" height="416" frameX="0" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right 0015" x="3635" y="5513" width="428" height="416" frameX="0" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0000" x="4063" y="5513" width="406" height="410" frameX="-29" frameY="-6" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0001" x="4469" y="5513" width="408" height="405" frameX="-29" frameY="-11" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0002" x="4877" y="5513" width="407" height="403" frameX="-28" frameY="-13" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0003" x="5284" y="5513" width="400" height="403" frameX="-28" frameY="-13" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0004" x="5684" y="5513" width="400" height="403" frameX="-28" frameY="-13" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0005" x="6084" y="5513" width="392" height="407" frameX="-27" frameY="-9" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0006" x="6476" y="5513" width="392" height="407" frameX="-27" frameY="-9" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0007" x="6868" y="5513" width="384" height="415" frameX="-26" frameY="-1" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0008" x="7252" y="5513" width="389" height="415" frameX="-26" frameY="-1" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0009" x="7641" y="5513" width="398" height="416" frameX="-26" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0010" x="0" y="5929" width="398" height="416" frameX="-26" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0011" x="398" y="5929" width="398" height="416" frameX="-26" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0012" x="796" y="5929" width="424" height="416" frameX="0" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0013" x="1220" y="5929" width="424" height="416" frameX="0" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0014" x="1644" y="5929" width="428" height="416" frameX="0" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Right  Tired0015" x="2072" y="5929" width="428" height="416" frameX="0" frameY="0" frameWidth="437" frameHeight="416"/>
+	<SubTexture name="BF Ice Sing Up 0000" x="2500" y="5929" width="455" height="445" frameX="0" frameY="-18" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0001" x="2955" y="5929" width="439" height="452" frameX="-21" frameY="-12" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0002" x="3394" y="5929" width="439" height="454" frameX="-23" frameY="-10" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0003" x="3833" y="5929" width="438" height="451" frameX="-27" frameY="-12" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0004" x="4271" y="5929" width="438" height="451" frameX="-27" frameY="-12" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0005" x="4709" y="5929" width="424" height="455" frameX="-42" frameY="-7" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0006" x="5133" y="5929" width="424" height="455" frameX="-42" frameY="-7" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0007" x="5557" y="5929" width="428" height="462" frameX="-34" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0008" x="5985" y="5929" width="429" height="462" frameX="-34" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0009" x="6414" y="5929" width="442" height="462" frameX="-21" frameY="0" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0010" x="6856" y="5929" width="442" height="462" frameX="-21" frameY="0" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0011" x="7298" y="5929" width="439" height="461" frameX="-23" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0012" x="7737" y="5929" width="439" height="461" frameX="-23" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0013" x="0" y="6391" width="398" height="416" frameX="-64" frameY="-46" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0014" x="398" y="6391" width="402" height="416" frameX="-64" frameY="-46" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up 0015" x="800" y="6391" width="402" height="416" frameX="-64" frameY="-46" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0000" x="1202" y="6391" width="455" height="445" frameX="0" frameY="-18" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0001" x="1657" y="6391" width="439" height="452" frameX="-21" frameY="-12" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0002" x="2096" y="6391" width="439" height="454" frameX="-23" frameY="-10" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0003" x="2535" y="6391" width="438" height="451" frameX="-27" frameY="-12" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0004" x="2973" y="6391" width="438" height="451" frameX="-27" frameY="-12" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0005" x="3411" y="6391" width="424" height="455" frameX="-42" frameY="-7" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0006" x="3835" y="6391" width="424" height="455" frameX="-42" frameY="-7" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0007" x="4259" y="6391" width="428" height="462" frameX="-34" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0008" x="4687" y="6391" width="429" height="462" frameX="-34" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0009" x="5116" y="6391" width="442" height="462" frameX="-21" frameY="0" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0010" x="5558" y="6391" width="442" height="462" frameX="-21" frameY="0" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0011" x="6000" y="6391" width="439" height="461" frameX="-23" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0012" x="6439" y="6391" width="439" height="461" frameX="-23" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0013" x="6878" y="6391" width="398" height="416" frameX="-64" frameY="-46" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0014" x="7276" y="6391" width="402" height="416" frameX="-64" frameY="-46" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up  XD0015" x="7678" y="6391" width="402" height="416" frameX="-64" frameY="-46" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0000" x="0" y="6853" width="455" height="445" frameX="0" frameY="-18" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0001" x="455" y="6853" width="439" height="452" frameX="-21" frameY="-12" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0002" x="894" y="6853" width="439" height="454" frameX="-23" frameY="-10" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0003" x="1333" y="6853" width="438" height="451" frameX="-27" frameY="-12" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0004" x="1771" y="6853" width="438" height="451" frameX="-27" frameY="-12" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0005" x="2209" y="6853" width="424" height="455" frameX="-42" frameY="-7" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0006" x="2633" y="6853" width="424" height="455" frameX="-42" frameY="-7" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0007" x="3057" y="6853" width="428" height="462" frameX="-34" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0008" x="3485" y="6853" width="429" height="462" frameX="-34" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0009" x="3914" y="6853" width="442" height="462" frameX="-21" frameY="0" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0010" x="4356" y="6853" width="442" height="462" frameX="-21" frameY="0" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0011" x="4798" y="6853" width="439" height="461" frameX="-23" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0012" x="5237" y="6853" width="439" height="461" frameX="-23" frameY="-1" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0013" x="5676" y="6853" width="398" height="416" frameX="-64" frameY="-46" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0014" x="6074" y="6853" width="402" height="416" frameX="-64" frameY="-46" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice Sing Up Tired0015" x="6476" y="6853" width="402" height="416" frameX="-64" frameY="-46" frameWidth="466" frameHeight="464"/>
+	<SubTexture name="BF Ice hit 0000" x="6878" y="6853" width="430" height="406" frameX="-31" frameY="-10" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0001" x="7308" y="6853" width="433" height="409" frameX="-31" frameY="-7" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0002" x="7741" y="6853" width="433" height="409" frameX="-31" frameY="-7" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0003" x="0" y="7315" width="434" height="407" frameX="-31" frameY="-9" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0004" x="434" y="7315" width="434" height="407" frameX="-31" frameY="-9" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0005" x="868" y="7315" width="435" height="403" frameX="-31" frameY="-13" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0006" x="1303" y="7315" width="435" height="403" frameX="-31" frameY="-13" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0007" x="1738" y="7315" width="435" height="400" frameX="-31" frameY="-16" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0008" x="2173" y="7315" width="438" height="400" frameX="-31" frameY="-16" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0009" x="2611" y="7315" width="439" height="397" frameX="-30" frameY="-19" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0010" x="3050" y="7315" width="439" height="397" frameX="-30" frameY="-19" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0011" x="3489" y="7315" width="418" height="415" frameX="-10" frameY="-1" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0012" x="3907" y="7315" width="421" height="415" frameX="-7" frameY="-1" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0013" x="4328" y="7315" width="427" height="416" frameX="-1" frameY="0" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0014" x="4755" y="7315" width="427" height="416" frameX="0" frameY="0" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0015" x="5182" y="7315" width="424" height="416" frameX="-3" frameY="0" frameWidth="469" frameHeight="416"/>
+	<SubTexture name="BF Ice hit 0016" x="5606" y="7315" width="424" height="416" frameX="-3" frameY="0" frameWidth="469" frameHeight="416"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+function onCreate()
+	
+end
+
+-- Event notes hooks
+function onEvent(name, value1, value2)
+	if name == 'Dark Arrows' then
+		for i = 0, getProperty('unspawnNotes.length')-1 do
+		--Check if the note is a Bullet Note
+			if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'No Animation' then
+				setPropertyFromGroup('unspawnNotes', i, 'texture', 'dark arrows'); --Change texture
+				setPropertyFromGroup('unspawnNotes', i, 'texture', 'dark arrows'); --Change texture
+				setPropertyFromGroup('playerStrums', i, 'texture', 'dark arrows');
+			end
+		end
+	end
+end
+
+
+
+

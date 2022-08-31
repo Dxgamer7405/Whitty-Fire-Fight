@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "updingdong idle edgy0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "updingdong left note edgy0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "updingdong down note edgy0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "updingdong up note edgy0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "updingdong right note edgy0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Updike Edgy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "updike edgy",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		30,
+		30
+	],
+	"camera_position": [
+		170,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

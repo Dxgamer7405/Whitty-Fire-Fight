@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF Flame dies"
+		},
+		{
+			"offsets": [
+				37,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Flame dead confirm"
+		},
+		{
+			"offsets": [
+				-360,
+				-205
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF Flame dead loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fire_Miss__Death",
+	"position": [
+		-390,
+		250
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-650,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

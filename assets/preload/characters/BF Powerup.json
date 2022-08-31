@@ -1,0 +1,1 @@
+{"animations":[{"offsets":[-165,0],"loop":true,"fps":24,"anim":"idle","indices":[],"name":"BF Flame Powerup"}],"no_antialiasing":false,"image":"characters/BF Flame Powerup","position":[-700,-120],"healthicon":"BF Flame","flip_x":true,"healthbar_colors":[204,51,0],"camera_position":[248,-50],"sing_duration":4,"scale":1}

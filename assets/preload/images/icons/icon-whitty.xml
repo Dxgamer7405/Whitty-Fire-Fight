@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-whitty.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whitty Even Icon0000" x="0" y="0" width="121" height="105"/>
+	<SubTexture name="Whitty Even Icon0001" x="141" y="0" width="121" height="105"/>
+	<SubTexture name="Whitty Even Icon0002" x="282" y="0" width="121" height="105"/>
+	<SubTexture name="Whitty Even Icon0003" x="0" y="125" width="121" height="105"/>
+	<SubTexture name="Whitty Even Icon0004" x="141" y="125" width="121" height="105"/>
+	<SubTexture name="Whitty Even Icon0005" x="141" y="125" width="121" height="105"/>
+	<SubTexture name="Whitty Even Icon0006" x="141" y="125" width="121" height="105"/>
+	<SubTexture name="Whitty Even Icon0007" x="141" y="125" width="121" height="105"/>
+	<SubTexture name="Whitty losing icon0000" x="282" y="125" width="119" height="105"/>
+	<SubTexture name="Whitty losing icon0001" x="0" y="250" width="119" height="105"/>
+	<SubTexture name="Whitty losing icon0002" x="139" y="250" width="119" height="105"/>
+	<SubTexture name="Whitty losing icon0003" x="278" y="250" width="119" height="105"/>
+	<SubTexture name="Whitty losing icon0004" x="282" y="125" width="119" height="105"/>
+	<SubTexture name="Whitty losing icon0005" x="0" y="250" width="119" height="105"/>
+	<SubTexture name="Whitty losing icon0006" x="139" y="250" width="119" height="105"/>
+	<SubTexture name="Whitty losing icon0007" x="278" y="250" width="119" height="105"/>
+</TextureAtlas>

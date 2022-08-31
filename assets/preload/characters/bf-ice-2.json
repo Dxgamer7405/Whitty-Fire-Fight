@@ -1,0 +1,276 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				8
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF Ice stunned",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Ballistic Ice Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				41
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Ballistic Ice Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Ballistic Ice Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				81
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Ballistic Ice Sing Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Ballistic Ice Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				810
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "BF Ballistic Ice Scream"
+		},
+		{
+			"offsets": [
+				-36,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit1",
+			"indices": [],
+			"name": "BF Ballistic Ice HIT"
+		},
+		{
+			"offsets": [
+				15,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit2",
+			"indices": [],
+			"name": "BF Ballistic Ice HIt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				59
+			],
+			"anim": "Powerup",
+			"fps": 24,
+			"name": "BF Ballistic ice Powerup 0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				812
+			],
+			"anim": "PowerupFloat",
+			"fps": 24,
+			"name": "BF Ballistic ice Powerup Float",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF Ice Ballistic",
+	"position": [
+		-50,
+		400
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-10,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

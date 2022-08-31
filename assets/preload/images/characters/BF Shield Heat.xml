@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF Shield Heat.png">
+<SubTexture name="BF Flame Idle0000" x="0" y="0" width="667" height="869" frameX="-1" frameY="0" frameWidth="672" frameHeight="869" />
+<SubTexture name="BF Flame Idle0001" x="667" y="0" width="667" height="869" frameX="-1" frameY="0" frameWidth="672" frameHeight="869" />
+<SubTexture name="BF Flame Sing Down0000" x="1334" y="0" width="694" height="869" frameX="-1" frameY="0" frameWidth="699" frameHeight="869" />
+<SubTexture name="BF Flame Sing Down0001" x="2028" y="0" width="664" height="869" frameX="-1" frameY="0" frameWidth="699" frameHeight="869" />
+<SubTexture name="BF Flame Sing Left0000" x="0" y="869" width="611" height="869" frameX="-1" frameY="0" frameWidth="695" frameHeight="869" />
+<SubTexture name="BF Flame Sing Left0001" x="611" y="869" width="665" height="869" frameX="-1" frameY="0" frameWidth="695" frameHeight="869" />
+<SubTexture name="BF Flame Sing Left0002" x="1276" y="869" width="666" height="869" frameX="-1" frameY="0" frameWidth="695" frameHeight="869" />
+<SubTexture name="BF Flame Sing Right0000" x="1942" y="869" width="690" height="869" frameX="0" frameY="0" frameWidth="699" frameHeight="869" />
+<SubTexture name="BF Flame Sing Right0001" x="0" y="1738" width="667" height="869" frameX="-1" frameY="0" frameWidth="699" frameHeight="869" />
+<SubTexture name="BF Flame Sing Up0000" x="667" y="1738" width="675" height="869" frameX="-1" frameY="0" frameWidth="687" frameHeight="869" />
+<SubTexture name="BF Flame Sing Up0001" x="1342" y="1738" width="665" height="869" frameX="-1" frameY="0" frameWidth="687" frameHeight="869" />
+<SubTexture name="BF Flame click0000" x="2007" y="1738" width="669" height="869" frameX="-1" frameY="0" frameWidth="673" frameHeight="869" />
+<SubTexture name="BF Flame click0001" x="0" y="2607" width="668" height="869" frameX="-1" frameY="0" frameWidth="673" frameHeight="869" />
+</TextureAtlas>

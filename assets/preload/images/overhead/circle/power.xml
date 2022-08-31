@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="power.png">
+<SubTexture name="Circle0000" x="0" y="0" width="1007" height="1007" frameX="0" frameY="0" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0001" x="1007" y="0" width="746" height="746" frameX="-131" frameY="-130" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0002" x="0" y="1007" width="574" height="574" frameX="-217" frameY="-217" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0003" x="574" y="1007" width="456" height="466" frameX="-276" frameY="-272" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0004" x="1030" y="1007" width="386" height="398" frameX="-311" frameY="-305" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0005" x="1416" y="1007" width="291" height="299" frameX="-358" frameY="-354" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0006" x="1007" y="746" width="250" height="256" frameX="-379" frameY="-375" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0007" x="1257" y="746" width="202" height="208" frameX="-404" frameY="-399" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0008" x="1459" y="746" width="156" height="157" frameX="-427" frameY="-424" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0009" x="1615" y="746" width="100" height="106" frameX="-455" frameY="-449" frameWidth="1007" frameHeight="1007" />
+<SubTexture name="Circle0010" x="1416" y="1306" width="57" height="61" frameX="-477" frameY="-472" frameWidth="1007" frameHeight="1007" />
+</TextureAtlas>

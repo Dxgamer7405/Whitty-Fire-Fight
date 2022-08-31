@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				73
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "hit1",
+			"loop": false,
+			"name": "Whitty Ballistic Hit 1"
+		},
+		{
+			"offsets": [
+				-190,
+				110
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "hit3",
+			"loop": false,
+			"name": "Whitty Ballistic Hit 3"
+		},
+		{
+			"offsets": [
+				-26,
+				55
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "hit2",
+			"loop": false,
+			"name": "Whitty Ballistic Hit 2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Whitty Hit",
+	"position": [
+		-60,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		206,
+		0,
+		44
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Exit.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Exit Black Stuff0000" x="0" y="0" width="2213" height="2740" frameX="0" frameY="-2256" frameWidth="2213" frameHeight="4996"/>
+	<SubTexture name="Exit Black Stuff0001" x="2221" y="0" width="2213" height="2741" frameX="0" frameY="-2005" frameWidth="2213" frameHeight="4996"/>
+	<SubTexture name="Exit Black Stuff0002" x="0" y="0" width="2213" height="2740" frameX="0" frameY="-1754" frameWidth="2213" frameHeight="4996"/>
+	<SubTexture name="Exit Black Stuff0003" x="0" y="0" width="2213" height="2740" frameX="0" frameY="-1504" frameWidth="2213" frameHeight="4996"/>
+	<SubTexture name="Exit Black Stuff0004" x="4442" y="0" width="2213" height="2740" frameX="0" frameY="-1254" frameWidth="2213" frameHeight="4996"/>
+	<SubTexture name="Exit Black Stuff0005" x="0" y="0" width="2213" height="2740" frameX="0" frameY="-1003" frameWidth="2213" frameHeight="4996"/>
+	<SubTexture name="Exit Black Stuff0006" x="0" y="2749" width="2213" height="2740" frameX="0" frameY="-752" frameWidth="2213" frameHeight="4996"/>
+	<SubTexture name="Exit Black Stuff0007" x="0" y="0" width="2213" height="2740" frameX="0" frameY="-502" frameWidth="2213" frameHeight="4996"/>
+	<SubTexture name="Exit Black Stuff0008" x="0" y="0" width="2213" height="2740" frameX="0" frameY="-251" frameWidth="2213" frameHeight="4996"/>
+	<SubTexture name="Exit Black Stuff0009" x="4442" y="0" width="2213" height="2740" frameX="0" frameY="0" frameWidth="2213" frameHeight="4996"/>
+</TextureAtlas>

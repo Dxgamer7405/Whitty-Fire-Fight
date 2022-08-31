@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gun Throw.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gun Throw0000" x="0" y="0" width="105" height="111" frameX="-232" frameY="-8" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0001" x="113" y="0" width="119" height="115" frameX="-177" frameY="-8" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0002" x="240" y="0" width="125" height="128" frameX="-141" frameY="0" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0003" x="373" y="0" width="120" height="104" frameX="-98" frameY="-16" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0004" x="501" y="0" width="100" height="127" frameX="-71" frameY="-3" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0005" x="609" y="0" width="119" height="98" frameX="-44" frameY="-15" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0006" x="736" y="0" width="109" height="115" frameX="-26" frameY="-14" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0007" x="853" y="0" width="123" height="120" frameX="-3" frameY="-14" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0008" x="0" y="136" width="132" height="134" frameX="-2" frameY="-7" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0009" x="140" y="136" width="126" height="108" frameX="0" frameY="-25" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0010" x="274" y="136" width="105" height="133" frameX="-19" frameY="-12" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0011" x="387" y="136" width="125" height="104" frameX="-44" frameY="-25" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0012" x="520" y="136" width="115" height="120" frameX="-82" frameY="-26" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0013" x="643" y="136" width="130" height="127" frameX="-121" frameY="-27" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0014" x="781" y="136" width="139" height="141" frameX="-188" frameY="-21" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0015" x="0" y="285" width="134" height="114" frameX="-259" frameY="-41" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0016" x="142" y="285" width="111" height="140" frameX="-359" frameY="-29" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0017" x="261" y="285" width="133" height="109" frameX="-469" frameY="-45" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0018" x="402" y="285" width="121" height="127" frameX="-601" frameY="-47" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0019" x="531" y="285" width="137" height="134" frameX="-738" frameY="-50" frameWidth="875" frameHeight="184"/>
+	<SubTexture name="Gun Throw0020" x="676" y="285" width="0" height="0" frameX="38" frameY="271" frameWidth="875" frameHeight="184"/>
+</TextureAtlas>

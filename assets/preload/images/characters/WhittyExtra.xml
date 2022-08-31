@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WhittyExtra.png">
+<SubTexture name="Click Agro0000" x="0" y="951" width="738" height="871" frameX="-75" frameY="0" frameWidth="812" frameHeight="869" />
+<SubTexture name="Click Agro0001" x="738" y="951" width="790" height="871" frameX="-24" frameY="0" frameWidth="812" frameHeight="869" />
+<SubTexture name="Click Agro0002" x="1528" y="951" width="733" height="871" frameX="-80" frameY="0" frameWidth="812" frameHeight="869" />
+<SubTexture name="Click Agro0003" x="2482" y="1822" width="490" height="819" frameX="-80" frameY="-49" frameWidth="812" frameHeight="869" />
+<SubTexture name="Cold Down Agro0000" x="2433" y="871" width="677" height="871" frameX="0" frameY="0" frameWidth="676" frameHeight="869" />
+<SubTexture name="Cold Down Agro0001" x="0" y="1822" width="677" height="871" frameX="0" frameY="0" frameWidth="676" frameHeight="869" />
+<SubTexture name="Cold Down Agro0002" x="2433" y="0" width="677" height="871" frameX="0" frameY="0" frameWidth="676" frameHeight="869" />
+<SubTexture name="Cold Down Agro0003" x="2065" y="1822" width="417" height="832" frameX="0" frameY="-38" frameWidth="676" frameHeight="869" />
+<SubTexture name="Idle Agro0000" x="677" y="1822" width="695" height="871" frameX="0" frameY="0" frameWidth="694" frameHeight="869" />
+<SubTexture name="Idle Agro0001" x="1372" y="1822" width="693" height="871" frameX="-3" frameY="0" frameWidth="694" frameHeight="869" />
+<SubTexture name="Shield Spin Agro0000" x="3110" y="0" width="740" height="702" frameX="-160" frameY="-255" frameWidth="901" frameHeight="967" />
+<SubTexture name="Shield Spin Agro0001" x="0" y="0" width="857" height="951" frameX="-45" frameY="-18" frameWidth="901" frameHeight="967" />
+<SubTexture name="Shield Spin Agro0002" x="857" y="0" width="900" height="951" frameX="-3" frameY="-18" frameWidth="901" frameHeight="967" />
+<SubTexture name="Shield Spin Agro0003" x="1757" y="0" width="676" height="873" frameX="-226" frameY="-96" frameWidth="901" frameHeight="967" />
+</TextureAtlas>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WhittySprites.png">
+<SubTexture name="Idle0000" x="0" y="2786" width="413" height="761" frameX="0" frameY="-2" frameWidth="422" frameHeight="763" />
+<SubTexture name="Idle0001" x="413" y="2786" width="421" height="754" frameX="-1" frameY="-9" frameWidth="422" frameHeight="763" />
+<SubTexture name="Idle0002" x="834" y="2786" width="414" height="754" frameX="-1" frameY="-9" frameWidth="422" frameHeight="763" />
+<SubTexture name="Idle0003" x="1248" y="2786" width="414" height="750" frameX="-1" frameY="-13" frameWidth="422" frameHeight="763" />
+<SubTexture name="Sing Down0000" x="2393" y="2786" width="460" height="704" frameX="0" frameY="0" frameWidth="460" frameHeight="705" />
+<SubTexture name="Sing Down0001" x="2853" y="2786" width="452" height="703" frameX="-3" frameY="-1" frameWidth="460" frameHeight="705" />
+<SubTexture name="Sing Down0002" x="2853" y="2786" width="452" height="703" frameX="-3" frameY="-1" frameWidth="460" frameHeight="705" />
+<SubTexture name="Sing Left0000" x="1662" y="2786" width="369" height="742" frameX="0" frameY="0" frameWidth="375" frameHeight="743" />
+<SubTexture name="Sing Left0001" x="2031" y="2786" width="362" height="736" frameX="-13" frameY="-6" frameWidth="375" frameHeight="743" />
+<SubTexture name="Sing Left0002" x="2031" y="2786" width="362" height="736" frameX="-13" frameY="-6" frameWidth="375" frameHeight="743" />
+<SubTexture name="Sing Left0003" x="2031" y="2786" width="362" height="736" frameX="-13" frameY="-6" frameWidth="375" frameHeight="743" />
+<SubTexture name="Sing Right0000" x="2981" y="1619" width="446" height="789" frameX="-1" frameY="0" frameWidth="447" frameHeight="789" />
+<SubTexture name="Sing Right0001" x="2537" y="1872" width="443" height="784" frameX="0" frameY="-5" frameWidth="447" frameHeight="789" />
+<SubTexture name="Sing Right0002" x="2537" y="1872" width="443" height="784" frameX="0" frameY="-5" frameWidth="447" frameHeight="789" />
+<SubTexture name="Sing Right0003" x="2537" y="1872" width="443" height="784" frameX="0" frameY="-5" frameWidth="447" frameHeight="789" />
+<SubTexture name="Sing Up0000" x="2527" y="918" width="399" height="816" frameX="0" frameY="0" frameWidth="408" frameHeight="816" />
+<SubTexture name="Sing Up0001" x="2981" y="810" width="401" height="809" frameX="-7" frameY="-7" frameWidth="408" frameHeight="816" />
+<SubTexture name="Sing Up0002" x="2981" y="810" width="401" height="809" frameX="-7" frameY="-7" frameWidth="408" frameHeight="816" />
+<SubTexture name="Sing Up0003" x="2981" y="810" width="401" height="809" frameX="-7" frameY="-7" frameWidth="408" frameHeight="816" />
+<SubTexture name="Whitty Cutscene Startup 0000" x="2035" y="0" width="492" height="927" frameX="-366" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0001" x="2035" y="0" width="492" height="927" frameX="-366" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0002" x="2035" y="0" width="492" height="927" frameX="-366" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0003" x="2035" y="0" width="492" height="927" frameX="-366" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0004" x="2035" y="0" width="492" height="927" frameX="-366" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0005" x="2035" y="0" width="492" height="927" frameX="-366" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0006" x="2035" y="0" width="492" height="927" frameX="-366" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0007" x="2035" y="0" width="492" height="927" frameX="-366" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0008" x="2035" y="0" width="492" height="927" frameX="-366" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0009" x="461" y="1872" width="459" height="910" frameX="-403" frameY="-36" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0010" x="1354" y="936" width="592" height="928" frameX="-268" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0011" x="1354" y="936" width="592" height="928" frameX="-268" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0012" x="1354" y="936" width="592" height="928" frameX="-268" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0013" x="1354" y="936" width="592" height="928" frameX="-268" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0014" x="1354" y="936" width="592" height="928" frameX="-268" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0015" x="1354" y="936" width="592" height="928" frameX="-268" frameY="-19" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0016" x="0" y="0" width="957" height="936" frameX="-79" frameY="-12" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0017" x="957" y="0" width="1078" height="936" frameX="-2" frameY="-12" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0018" x="0" y="936" width="739" height="936" frameX="-199" frameY="-12" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0019" x="739" y="936" width="615" height="936" frameX="-251" frameY="-12" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0020" x="739" y="936" width="615" height="936" frameX="-251" frameY="-12" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0021" x="739" y="936" width="615" height="936" frameX="-251" frameY="-12" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0022" x="739" y="936" width="615" height="936" frameX="-251" frameY="-12" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0023" x="739" y="936" width="615" height="936" frameX="-251" frameY="-12" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0024" x="739" y="936" width="615" height="936" frameX="-251" frameY="-12" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0025" x="920" y="1872" width="482" height="889" frameX="-384" frameY="-55" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0026" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0027" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0028" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0029" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0030" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0031" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0032" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0033" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0034" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0035" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0036" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0037" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0038" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0039" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0040" x="0" y="1872" width="461" height="914" frameX="-400" frameY="-27" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0041" x="2527" y="0" width="454" height="918" frameX="-406" frameY="-24" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0042" x="2035" y="927" width="451" height="920" frameX="-407" frameY="-20" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0043" x="2035" y="927" width="451" height="920" frameX="-407" frameY="-20" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0044" x="2035" y="927" width="451" height="920" frameX="-407" frameY="-20" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0045" x="2035" y="927" width="451" height="920" frameX="-407" frameY="-20" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0046" x="2035" y="927" width="451" height="920" frameX="-407" frameY="-20" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0047" x="2035" y="927" width="451" height="920" frameX="-407" frameY="-20" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0048" x="2035" y="927" width="451" height="920" frameX="-407" frameY="-20" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0049" x="2981" y="0" width="592" height="810" frameX="-360" frameY="-130" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0050" x="2981" y="0" width="592" height="810" frameX="-360" frameY="-130" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0051" x="1402" y="1872" width="470" height="853" frameX="-387" frameY="-92" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0052" x="1872" y="1872" width="665" height="825" frameX="-294" frameY="-124" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0053" x="1872" y="1872" width="665" height="825" frameX="-294" frameY="-124" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0054" x="1872" y="1872" width="665" height="825" frameX="-294" frameY="-124" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0055" x="1872" y="1872" width="665" height="825" frameX="-294" frameY="-124" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0056" x="1872" y="1872" width="665" height="825" frameX="-294" frameY="-124" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0057" x="1872" y="1872" width="665" height="825" frameX="-294" frameY="-124" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0058" x="1872" y="1872" width="665" height="825" frameX="-294" frameY="-124" frameWidth="1080" frameHeight="949" />
+<SubTexture name="Whitty Cutscene Startup 0059" x="1872" y="1872" width="665" height="825" frameX="-294" frameY="-124" frameWidth="1080" frameHeight="949" />
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Whitty Head Sharpnel.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whitty Dark Icon0000" x="0" y="0" width="176" height="155" frameX="0" frameY="0" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0001" x="184" y="0" width="176" height="155" frameX="-33" frameY="-12" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0002" x="368" y="0" width="175" height="156" frameX="-65" frameY="-23" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0003" x="551" y="0" width="175" height="156" frameX="-98" frameY="-35" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0004" x="734" y="0" width="175" height="156" frameX="-131" frameY="-47" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0005" x="0" y="164" width="176" height="156" frameX="-163" frameY="-59" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0006" x="184" y="164" width="175" height="155" frameX="-196" frameY="-71" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0007" x="367" y="164" width="177" height="155" frameX="-228" frameY="-83" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0008" x="184" y="164" width="175" height="155" frameX="-260" frameY="-95" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0009" x="552" y="164" width="177" height="154" frameX="-293" frameY="-107" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0010" x="737" y="164" width="177" height="154" frameX="-326" frameY="-119" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0011" x="737" y="164" width="177" height="154" frameX="-359" frameY="-131" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0012" x="0" y="328" width="177" height="154" frameX="-391" frameY="-143" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0013" x="737" y="164" width="177" height="154" frameX="-424" frameY="-154" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0014" x="737" y="164" width="177" height="154" frameX="-457" frameY="-166" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0015" x="737" y="164" width="177" height="154" frameX="-489" frameY="-178" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0016" x="184" y="164" width="175" height="155" frameX="-522" frameY="-190" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0017" x="737" y="164" width="177" height="154" frameX="-555" frameY="-202" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0018" x="737" y="164" width="177" height="154" frameX="-587" frameY="-213" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0019" x="737" y="164" width="177" height="154" frameX="-620" frameY="-225" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0020" x="185" y="328" width="177" height="156" frameX="-653" frameY="-237" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0021" x="370" y="328" width="178" height="156" frameX="-685" frameY="-249" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0022" x="737" y="164" width="177" height="154" frameX="-718" frameY="-261" frameWidth="895" frameHeight="417"/>
+	<SubTexture name="Whitty Dark Icon0023" x="556" y="328" width="0" height="0" frameX="-225" frameY="-213" frameWidth="895" frameHeight="417"/>
+</TextureAtlas>

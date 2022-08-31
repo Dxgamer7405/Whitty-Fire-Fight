@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fade.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Black Fade0000" x="0" y="0" width="3201" height="1450" frameX="0" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0001" x="0" y="0" width="3201" height="1450" frameX="-112" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0002" x="0" y="0" width="3201" height="1450" frameX="-218" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0003" x="0" y="1458" width="3202" height="1450" frameX="-320" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0004" x="0" y="1458" width="3202" height="1450" frameX="-418" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0005" x="0" y="1458" width="3202" height="1450" frameX="-511" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0006" x="0" y="0" width="3201" height="1450" frameX="-599" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0007" x="0" y="0" width="3201" height="1450" frameX="-683" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0008" x="0" y="1458" width="3202" height="1450" frameX="-763" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0009" x="0" y="0" width="3201" height="1450" frameX="-838" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0010" x="0" y="1458" width="3202" height="1450" frameX="-909" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0011" x="0" y="1458" width="3202" height="1450" frameX="-977" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0012" x="0" y="1458" width="3202" height="1450" frameX="-1040" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0013" x="0" y="0" width="3201" height="1450" frameX="-1100" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0014" x="0" y="0" width="3201" height="1450" frameX="-1156" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0015" x="0" y="0" width="3201" height="1450" frameX="-1209" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0016" x="0" y="0" width="3201" height="1450" frameX="-1258" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0017" x="0" y="0" width="3201" height="1450" frameX="-1304" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0018" x="0" y="0" width="3201" height="1450" frameX="-1347" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0019" x="0" y="1458" width="3202" height="1450" frameX="-1387" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0020" x="0" y="1458" width="3202" height="1450" frameX="-1424" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0021" x="0" y="1458" width="3202" height="1450" frameX="-1458" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0022" x="0" y="1458" width="3202" height="1450" frameX="-1489" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0023" x="0" y="1458" width="3202" height="1450" frameX="-1518" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0024" x="0" y="1458" width="3202" height="1450" frameX="-1544" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0025" x="0" y="1458" width="3202" height="1450" frameX="-1568" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0026" x="0" y="0" width="3201" height="1450" frameX="-1589" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0027" x="0" y="1458" width="3202" height="1450" frameX="-1609" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0028" x="0" y="1458" width="3202" height="1450" frameX="-1626" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0029" x="0" y="0" width="3201" height="1450" frameX="-1641" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0030" x="0" y="1458" width="3202" height="1450" frameX="-1655" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0031" x="0" y="1458" width="3202" height="1450" frameX="-1667" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0032" x="0" y="0" width="3201" height="1450" frameX="-1677" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0033" x="0" y="1458" width="3202" height="1450" frameX="-1686" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0034" x="0" y="1458" width="3202" height="1450" frameX="-1694" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0035" x="0" y="1458" width="3202" height="1450" frameX="-1700" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0036" x="0" y="1458" width="3202" height="1450" frameX="-1705" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0037" x="0" y="1458" width="3202" height="1450" frameX="-1709" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0038" x="0" y="0" width="3201" height="1450" frameX="-1712" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0039" x="0" y="1458" width="3202" height="1450" frameX="-1715" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0040" x="0" y="0" width="3201" height="1450" frameX="-1716" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0041" x="0" y="0" width="3201" height="1450" frameX="-1718" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0042" x="0" y="0" width="3201" height="1450" frameX="-1718" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0043" x="0" y="1458" width="3202" height="1450" frameX="-1719" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0044" x="0" y="1458" width="3202" height="1450" frameX="-1719" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0045" x="0" y="1458" width="3202" height="1450" frameX="-1719" frameY="0" frameWidth="4921" frameHeight="1450"/>
+	<SubTexture name="Black Fade0046" x="0" y="2916" width="2614" height="1115" frameX="-193" frameY="-200" frameWidth="4921" frameHeight="1450"/>
+</TextureAtlas>

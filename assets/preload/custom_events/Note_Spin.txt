@@ -1,0 +1,4 @@
+Spin the notes
+
+Value 1: duration
+Value 2: rotation

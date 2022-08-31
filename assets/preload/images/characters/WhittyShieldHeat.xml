@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WhittyShieldHeat.png">
+<SubTexture name="Idle Agro0000" x="741" y="0" width="695" height="871" frameX="0" frameY="0" frameWidth="694" frameHeight="869" />
+<SubTexture name="Idle Agro0001" x="1436" y="0" width="689" height="871" frameX="-6" frameY="0" frameWidth="694" frameHeight="869" />
+<SubTexture name="Idle Agro0002" x="0" y="981" width="690" height="871" frameX="-6" frameY="0" frameWidth="694" frameHeight="869" />
+<SubTexture name="Sing Down Agro 0000" x="690" y="981" width="893" height="871" frameX="-83" frameY="0" frameWidth="974" frameHeight="869" />
+<SubTexture name="Sing Down Agro 0001" x="2125" y="0" width="809" height="871" frameX="-19" frameY="0" frameWidth="974" frameHeight="869" />
+<SubTexture name="Sing Down Agro 0002" x="2125" y="871" width="791" height="871" frameX="0" frameY="0" frameWidth="974" frameHeight="869" />
+<SubTexture name="Sing Left Agro0000" x="0" y="1852" width="869" height="871" frameX="-55" frameY="0" frameWidth="922" frameHeight="869" />
+<SubTexture name="Sing Left Agro0001" x="869" y="1852" width="843" height="871" frameX="-81" frameY="0" frameWidth="922" frameHeight="869" />
+<SubTexture name="Sing Left Agro0002" x="1712" y="1852" width="818" height="871" frameX="-106" frameY="0" frameWidth="922" frameHeight="869" />
+<SubTexture name="Sing Right Agro0000" x="2934" y="0" width="821" height="871" frameX="-83" frameY="-1" frameWidth="980" frameHeight="871" />
+<SubTexture name="Sing Right Agro0001" x="0" y="2723" width="852" height="871" frameX="-130" frameY="-1" frameWidth="980" frameHeight="871" />
+<SubTexture name="Sing Right Agro0002" x="852" y="2723" width="836" height="871" frameX="-79" frameY="-2" frameWidth="980" frameHeight="871" />
+<SubTexture name="Up Agro0000" x="2934" y="871" width="693" height="870" frameX="-49" frameY="-117" frameWidth="741" frameHeight="987" />
+<SubTexture name="Up Agro0001" x="0" y="0" width="741" height="981" frameX="-1" frameY="-6" frameWidth="741" frameHeight="987" />
+</TextureAtlas>

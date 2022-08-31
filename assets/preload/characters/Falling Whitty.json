@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Whitty Fall Idle"
+		},
+		{
+			"offsets": [
+				265,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Whitty Fall left0"
+		},
+		{
+			"offsets": [
+				-20,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Whitty Fall down"
+		},
+		{
+			"offsets": [
+				-27,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Whitty Fall Up"
+		},
+		{
+			"offsets": [
+				-29,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Whitty Fall Right"
+		},
+		{
+			"offsets": [
+				261,
+				175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Whitty Fall left hold"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Falling Whitty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "whitty",
+	"flip_x": true,
+	"healthbar_colors": [
+		29,
+		30,
+		53
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

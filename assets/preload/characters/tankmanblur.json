@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tankman Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tankman DOWN note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tankman Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				54
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tankman Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tankman UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TankmanCaptain2",
+	"position": [
+		81,
+		299
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		-78,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				66,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hits1",
+			"indices": [],
+			"name": "BF Ice HIt down "
+		},
+		{
+			"offsets": [
+				-17,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hits2",
+			"loop": false,
+			"name": "BF Ice HIT"
+		},
+		{
+			"offsets": [
+				30,
+				-30
+			],
+			"indices": [],
+			"fps": 0,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF Ice HIT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ballistic Sprites/Bf Hit",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		255,
+		255
+	],
+	"camera_position": [
+		720,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

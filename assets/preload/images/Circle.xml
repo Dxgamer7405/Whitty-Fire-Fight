@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Circle.png">
+<SubTexture name="Circle0000" x="0" y="0" width="1340" height="1338" frameX="0" frameY="0" frameWidth="1340" frameHeight="1338" />
+<SubTexture name="Circle0001" x="1340" y="0" width="976" height="975" frameX="-180" frameY="-181" frameWidth="1340" frameHeight="1338" />
+<SubTexture name="Circle0002" x="0" y="1338" width="611" height="611" frameX="-360" frameY="-364" frameWidth="1340" frameHeight="1338" />
+<SubTexture name="Circle0003" x="611" y="1338" width="247" height="247" frameX="-540" frameY="-546" frameWidth="1340" frameHeight="1338" />
+</TextureAtlas>

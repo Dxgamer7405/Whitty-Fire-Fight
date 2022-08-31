@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				100
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Whitty Cra Cra"
+		},
+		{
+			"offsets": [
+				24,
+				-19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Whitty Ballistic Kick"
+		},
+		{
+			"offsets": [
+				24,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Whitty Ballistic Kick"
+		},
+		{
+			"offsets": [
+				-186,
+				-60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Whttty Ballistic slap"
+		},
+		{
+			"offsets": [
+				-176,
+				-91
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Whitty Headbutt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ballistic sprites/Whitty Gets Fucked",
+	"position": [
+		-60,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		206,
+		0,
+		44
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.3,
+	"scale": 1
+}

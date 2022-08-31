@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rage Blasts Bf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf Rage Blast0000" x="0" y="0" width="332" height="338" frameX="-1328" frameY="-953" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0001" x="340" y="0" width="1766" height="1436" frameX="-604" frameY="-422" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0002" x="0" y="1444" width="3067" height="2362"/>
+	<SubTexture name="Bf Rage Blast0003" x="3075" y="1444" width="0" height="0" frameX="-1222" frameY="-965" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0004" x="0" y="0" width="332" height="338" frameX="-1328" frameY="-953" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0005" x="340" y="0" width="1766" height="1436" frameX="-604" frameY="-422" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0006" x="0" y="1444" width="3067" height="2362"/>
+	<SubTexture name="Bf Rage Blast0007" x="3075" y="1444" width="0" height="0" frameX="-1222" frameY="-965" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0008" x="0" y="0" width="332" height="338" frameX="-1328" frameY="-953" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0009" x="340" y="0" width="1766" height="1436" frameX="-604" frameY="-422" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0010" x="0" y="1444" width="3067" height="2362"/>
+	<SubTexture name="Bf Rage Blast0011" x="3075" y="1444" width="0" height="0" frameX="-1222" frameY="-965" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0012" x="0" y="0" width="332" height="338" frameX="-1328" frameY="-953" frameWidth="3067" frameHeight="2362"/>
+	<SubTexture name="Bf Rage Blast0013" x="340" y="0" width="1766" height="1436" frameX="-604" frameY="-422" frameWidth="3067" frameHeight="2362"/>
+</TextureAtlas>

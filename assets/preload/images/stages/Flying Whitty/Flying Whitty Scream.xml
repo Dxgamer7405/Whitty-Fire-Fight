@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flying Whitty Scream.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flying Whitty scream0000" x="0" y="0" width="1449" height="632" frameX="-2032" frameY="-1645" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0001" x="1457" y="0" width="2124" height="1527" frameX="-1366" frameY="-1223" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0002" x="3589" y="0" width="3221" height="2489" frameX="-752" frameY="-806" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0003" x="0" y="2497" width="4470" height="3711"/>
+	<SubTexture name="Flying Whitty scream0004" x="4478" y="2497" width="1282" height="739" frameX="-2242" frameY="-1607" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0005" x="5768" y="2497" width="1282" height="741" frameX="-2231" frameY="-1606" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0006" x="7058" y="2497" width="1123" height="742" frameX="-2220" frameY="-1606" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0007" x="0" y="6216" width="1101" height="387" frameX="-2273" frameY="-1752" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0008" x="1109" y="6216" width="1143" height="423" frameX="-2273" frameY="-1715" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0009" x="2260" y="6216" width="1207" height="410" frameX="-2292" frameY="-1721" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0010" x="3475" y="6216" width="1249" height="355" frameX="-2292" frameY="-1764" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0011" x="4732" y="6216" width="1249" height="392" frameX="-2292" frameY="-1729" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0012" x="5989" y="6216" width="1101" height="417" frameX="-2297" frameY="-1719" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0013" x="0" y="6647" width="1143" height="376" frameX="-2297" frameY="-1758" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0014" x="1151" y="6647" width="1207" height="400" frameX="-2297" frameY="-1731" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0015" x="2366" y="6647" width="1250" height="416" frameX="-2297" frameY="-1703" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0016" x="3624" y="6647" width="1249" height="340" frameX="-2297" frameY="-1781" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0017" x="4881" y="6647" width="1101" height="403" frameX="-2297" frameY="-1733" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0018" x="5990" y="6647" width="1143" height="407" frameX="-2297" frameY="-1727" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0019" x="0" y="7071" width="1207" height="378" frameX="-2297" frameY="-1753" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0020" x="1215" y="7071" width="1250" height="403" frameX="-2297" frameY="-1716" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0021" x="2473" y="7071" width="1249" height="400" frameX="-2297" frameY="-1721" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0022" x="3730" y="7071" width="1101" height="372" frameX="-2297" frameY="-1764" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0023" x="4839" y="7071" width="1143" height="405" frameX="-2297" frameY="-1729" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0024" x="5990" y="7071" width="1207" height="412" frameX="-2297" frameY="-1719" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0025" x="0" y="7491" width="1250" height="361" frameX="-2297" frameY="-1758" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0026" x="1258" y="7491" width="1249" height="390" frameX="-2297" frameY="-1731" frameWidth="4470" frameHeight="3711"/>
+	<SubTexture name="Flying Whitty scream0027" x="2515" y="7491" width="1101" height="433" frameX="-2297" frameY="-1703" frameWidth="4470" frameHeight="3711"/>
+</TextureAtlas>

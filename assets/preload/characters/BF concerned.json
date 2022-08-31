@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-154,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT concerned0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-181,
+				-53
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN concerned0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-207,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP concerned0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-212,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT concerned0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance concerned",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF concerned",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

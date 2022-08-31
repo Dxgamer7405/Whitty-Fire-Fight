@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				452
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Flame Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				452
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Flame Sing Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				451
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Flame Sing Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				451
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Flame Sing Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-196,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-123,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				73,
+				453
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Flame Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				71,
+				451
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Click",
+			"loop": false,
+			"name": "BF Flame click"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF Shield Heat",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "BF Flame",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		95,
+		0
+	],
+	"camera_position": [
+		116,
+		-218
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

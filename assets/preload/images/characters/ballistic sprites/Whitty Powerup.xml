@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Whitty Powerup.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whitty Rage Powerup0000" x="0" y="0" width="969" height="921"/>
+	<SubTexture name="Whitty Rage Powerup0001" x="0" y="0" width="969" height="921"/>
+	<SubTexture name="Whitty Rage Powerup0002" x="0" y="0" width="969" height="921"/>
+	<SubTexture name="Whitty Rage Powerup0003" x="0" y="0" width="969" height="921"/>
+	<SubTexture name="Whitty Rage Powerup0004" x="0" y="0" width="969" height="921"/>
+	<SubTexture name="Whitty Rage Powerup0005" x="0" y="0" width="969" height="921"/>
+	<SubTexture name="Whitty Rage Powerup0006" x="979" y="0" width="725" height="791" frameX="-122" frameY="-72" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0007" x="979" y="0" width="725" height="791" frameX="-122" frameY="-72" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0008" x="979" y="0" width="725" height="791" frameX="-122" frameY="-72" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0009" x="979" y="0" width="725" height="791" frameX="-122" frameY="-72" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0010" x="979" y="0" width="725" height="791" frameX="-122" frameY="-72" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0011" x="979" y="0" width="725" height="791" frameX="-122" frameY="-72" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0012" x="979" y="0" width="725" height="791" frameX="-122" frameY="-72" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0013" x="0" y="931" width="514" height="724" frameX="-229" frameY="-64" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0014" x="0" y="931" width="514" height="724" frameX="-229" frameY="-64" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0015" x="0" y="931" width="514" height="724" frameX="-229" frameY="-64" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0016" x="0" y="931" width="514" height="724" frameX="-229" frameY="-64" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0017" x="0" y="931" width="514" height="724" frameX="-229" frameY="-64" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0018" x="0" y="931" width="514" height="724" frameX="-229" frameY="-64" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0019" x="0" y="931" width="514" height="724" frameX="-229" frameY="-64" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0020" x="524" y="931" width="436" height="700" frameX="-236" frameY="-63" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0021" x="524" y="931" width="436" height="700" frameX="-236" frameY="-63" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0022" x="524" y="931" width="436" height="700" frameX="-236" frameY="-63" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0023" x="524" y="931" width="436" height="700" frameX="-236" frameY="-63" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0024" x="970" y="931" width="436" height="724" frameX="-235" frameY="-64" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0025" x="970" y="931" width="436" height="724" frameX="-235" frameY="-64" frameWidth="969" frameHeight="921"/>
+	<SubTexture name="Whitty Rage Powerup0026" x="1416" y="931" width="598" height="741" frameX="-185" frameY="-113" frameWidth="969" frameHeight="921"/>
+</TextureAtlas>

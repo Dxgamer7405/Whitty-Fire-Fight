@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rage Blasts.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rage Blast New0000" x="0" y="0" width="810" height="746" frameX="-1192" frameY="-830" frameWidth="3010" frameHeight="2317"/>
+	<SubTexture name="Rage Blast New0001" x="818" y="0" width="1734" height="1410" frameX="-592" frameY="-413" frameWidth="3010" frameHeight="2317"/>
+	<SubTexture name="Rage Blast New0002" x="0" y="1418" width="3010" height="2317"/>
+	<SubTexture name="Rage Blast New0003" x="3018" y="1418" width="0" height="0" frameX="-372" frameY="-1299" frameWidth="3010" frameHeight="2317"/>
+	<SubTexture name="Rage Blast New0004" x="0" y="0" width="810" height="746" frameX="-1192" frameY="-830" frameWidth="3010" frameHeight="2317"/>
+	<SubTexture name="Rage Blast New0005" x="818" y="0" width="1734" height="1410" frameX="-592" frameY="-413" frameWidth="3010" frameHeight="2317"/>
+	<SubTexture name="Rage Blast New0006" x="0" y="1418" width="3010" height="2317"/>
+	<SubTexture name="Rage Blast New0007" x="3018" y="1418" width="0" height="0" frameX="-372" frameY="-1299" frameWidth="3010" frameHeight="2317"/>
+</TextureAtlas>

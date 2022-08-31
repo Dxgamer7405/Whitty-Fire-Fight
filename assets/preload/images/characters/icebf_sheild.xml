@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icebf_sheild.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Ice Idle instance 10000" x="0" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10001" x="728" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10002" x="1456" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10003" x="2184" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10004" x="2912" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10005" x="3640" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10006" x="4368" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10007" x="5096" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10008" x="5824" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10009" x="5824" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10010" x="6552" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10011" x="7280" y="0" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10012" x="0" y="606" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10013" x="0" y="606" width="728" height="606"/>
+	<SubTexture name="BF Ice Idle instance 10014" x="728" y="606" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Down  instance 10000" x="1456" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10001" x="2192" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10002" x="2928" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10003" x="3664" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10004" x="3664" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10005" x="4400" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10006" x="5136" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10007" x="5872" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10008" x="5872" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10009" x="6608" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10010" x="7344" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10011" x="7344" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10012" x="7344" y="606" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10013" x="0" y="1212" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10014" x="0" y="1212" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Down  instance 10015" x="0" y="1212" width="736" height="604"/>
+	<SubTexture name="BF Ice Sing Left instance 10000" x="736" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10001" x="1464" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10002" x="2192" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10003" x="2920" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10004" x="2920" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10005" x="3648" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10006" x="3648" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10007" x="4376" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10008" x="4376" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10009" x="5104" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Left instance 10010" x="5832" y="1212" width="728" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10000" x="6560" y="1212" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10001" x="7289" y="1212" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10002" x="0" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10003" x="729" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10004" x="729" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10005" x="1458" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10006" x="1458" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10007" x="2187" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10008" x="2916" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10009" x="3645" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10010" x="3645" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10011" x="4374" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10012" x="5103" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10013" x="5832" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10014" x="6561" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Right  instance 10015" x="7290" y="1818" width="729" height="606"/>
+	<SubTexture name="BF Ice Sing Up  instance 10000" x="0" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10001" x="730" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10002" x="1460" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10003" x="2190" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10004" x="2920" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10005" x="3650" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10006" x="3650" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10007" x="4380" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10008" x="5110" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10009" x="5840" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10010" x="5840" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10011" x="6570" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10012" x="6570" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10013" x="6570" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10014" x="7300" y="2424" width="730" height="603"/>
+	<SubTexture name="BF Ice Sing Up  instance 10015" x="7300" y="2424" width="730" height="603"/>
+</TextureAtlas>

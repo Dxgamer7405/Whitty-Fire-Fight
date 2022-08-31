@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fall.png">
+<SubTexture name="Text Fall0000" x="0" y="0" width="1160" height="380" frameX="-6" frameY="-22" frameWidth="1182" frameHeight="658" />
+<SubTexture name="Text Fall0001" x="1160" y="259" width="1160" height="258" frameX="-6" frameY="-22" frameWidth="1182" frameHeight="658" />
+<SubTexture name="Text Fall0002" x="0" y="380" width="1160" height="282" frameX="-6" frameY="-6" frameWidth="1182" frameHeight="658" />
+<SubTexture name="Text Fall0003" x="1160" y="0" width="1182" height="259" frameX="0" frameY="-21" frameWidth="1182" frameHeight="658" />
+<SubTexture name="Text Fall0004" x="0" y="662" width="1161" height="258" frameX="-6" frameY="-22" frameWidth="1182" frameHeight="658" />
+<SubTexture name="Text Fall0005" x="0" y="920" width="1161" height="253" frameX="-6" frameY="-216" frameWidth="1182" frameHeight="658" />
+<SubTexture name="Text Fall0006" x="1161" y="662" width="1161" height="254" frameX="-6" frameY="-403" frameWidth="1182" frameHeight="658" />
+</TextureAtlas>

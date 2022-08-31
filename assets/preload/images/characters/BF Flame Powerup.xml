@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF Flame Powerup.png">
+<SubTexture name="BF Flame Powerup0000" x="868" y="1664" width="388" height="420" frameX="-631" frameY="-464" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0001" x="0" y="0" width="976" height="975" frameX="-332" frameY="-181" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0002" x="1814" y="975" width="611" height="611" frameX="-512" frameY="-364" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0003" x="485" y="1664" width="383" height="432" frameX="-632" frameY="-454" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0004" x="0" y="1664" width="485" height="560" frameX="-557" frameY="-334" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0005" x="1239" y="975" width="575" height="627" frameX="-529" frameY="-292" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0006" x="627" y="975" width="612" height="658" frameX="-514" frameY="-263" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0007" x="0" y="975" width="627" height="689" frameX="-504" frameY="-243" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0008" x="976" y="0" width="629" height="698" frameX="-503" frameY="-238" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0009" x="1605" y="0" width="1022" height="697" frameX="0" frameY="-369" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0010" x="1256" y="1664" width="428" height="402" frameX="-594" frameY="-485" frameWidth="1492" frameHeight="1338" />
+<SubTexture name="BF Flame Powerup0011" x="1684" y="1664" width="426" height="402" frameX="-596" frameY="-485" frameWidth="1492" frameHeight="1338" />
+</TextureAtlas>

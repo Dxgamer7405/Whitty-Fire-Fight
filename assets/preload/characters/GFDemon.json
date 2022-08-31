@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "GF Ballistic Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "GF Ballistic Idle"
+		},
+		{
+			"offsets": [
+				19,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Click",
+			"indices": [],
+			"name": "GF Ballistic Click"
+		},
+		{
+			"offsets": [
+				0,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Hit",
+			"indices": [],
+			"name": "GF Ballistic Hit"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-71
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF Ballistic Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-84
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Ballistic Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF ball",
+	"position": [
+		130,
+		137
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bf Hit.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Ice HIT0000" x="0" y="0" width="363" height="425" frameX="-36" frameY="0" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0001" x="371" y="0" width="422" height="407" frameX="-19" frameY="-13" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0002" x="801" y="0" width="447" height="407" frameX="-3" frameY="-13" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0003" x="1256" y="0" width="462" height="397" frameX="0" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0004" x="1726" y="0" width="461" height="397" frameX="-2" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0005" x="2195" y="0" width="455" height="397" frameX="-8" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0006" x="2658" y="0" width="400" height="397" frameX="-11" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0007" x="3066" y="0" width="399" height="397" frameX="-13" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0008" x="3473" y="0" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0009" x="3473" y="0" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0010" x="3473" y="0" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0011" x="3473" y="0" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0012" x="3473" y="0" width="381" height="397" frameX="-28" frameY="-23" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0013" x="0" y="433" width="387" height="406" frameX="-25" frameY="-14" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0014" x="0" y="433" width="387" height="406" frameX="-25" frameY="-14" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0015" x="395" y="433" width="389" height="415" frameX="-27" frameY="-9" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0016" x="395" y="433" width="389" height="415" frameX="-27" frameY="-9" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0017" x="792" y="433" width="398" height="416" frameX="-27" frameY="-8" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0018" x="1198" y="433" width="398" height="416" frameX="-27" frameY="-8" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0019" x="1198" y="433" width="398" height="416" frameX="-27" frameY="-8" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIT0020" x="1198" y="433" width="398" height="416" frameX="-27" frameY="-8" frameWidth="463" frameHeight="425"/>
+	<SubTexture name="BF Ice HIt down 0000" x="1604" y="433" width="521" height="366" frameX="-26" frameY="-10" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0001" x="2133" y="433" width="573" height="312" frameX="-5" frameY="-61" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0002" x="2714" y="433" width="591" height="325" frameX="0" frameY="-49" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0003" x="3313" y="433" width="590" height="325" frameX="-2" frameY="-49" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0004" x="0" y="857" width="587" height="330" frameX="-6" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0005" x="595" y="857" width="524" height="330" frameX="-9" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0006" x="1127" y="857" width="452" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0007" x="1587" y="857" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0008" x="1587" y="857" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0009" x="1587" y="857" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0010" x="1587" y="857" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0011" x="1587" y="857" width="438" height="330" frameX="-72" frameY="-45" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0012" x="2033" y="857" width="430" height="344" frameX="-71" frameY="-32" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0013" x="2033" y="857" width="430" height="344" frameX="-71" frameY="-32" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0014" x="2471" y="857" width="451" height="377" frameX="-67" frameY="0" frameWidth="593" frameHeight="377"/>
+	<SubTexture name="BF Ice HIt down 0015" x="2930" y="857" width="451" height="377" frameX="-67" frameY="0" frameWidth="593" frameHeight="377"/>
+</TextureAtlas>

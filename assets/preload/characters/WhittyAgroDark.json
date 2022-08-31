@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				269,
+				426
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left Agro0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				431
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down Agro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				573
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Agro0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				432
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right Agro0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				43,
+				452
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Agro0"
+		},
+		{
+			"offsets": [
+				185,
+				419
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Click",
+			"indices": [],
+			"name": "Click Agro"
+		},
+		{
+			"offsets": [
+				37,
+				426
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Cold Down",
+			"indices": [],
+			"name": "Cold Down Agro"
+		},
+		{
+			"offsets": [
+				37,
+				422
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Heated Up",
+			"indices": [],
+			"name": "Heated Up Agro"
+		},
+		{
+			"offsets": [
+				134,
+				489
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Hit",
+			"indices": [],
+			"name": "Hit Agro"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				460
+			],
+			"anim": "Shock",
+			"fps": 24,
+			"name": "Shock0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhittyAgroDark",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "whittydark",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-114,
+		-490
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

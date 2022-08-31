@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance (hallucinated"
+		},
+		{
+			"offsets": [
+				5,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT (hallucinated)"
+		},
+		{
+			"offsets": [
+				-46,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP (hallucinated)"
+		},
+		{
+			"offsets": [
+				-48,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT (hallucinated)"
+		},
+		{
+			"offsets": [
+				-20,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN (hallucinated)0"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-christ-norm",
+			"indices": [],
+			"name": "BF idle dance (christmas)"
+		},
+		{
+			"offsets": [
+				-7,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-christ",
+			"indices": [],
+			"name": "BF idle shaking (christmas)"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-35
+			],
+			"anim": "singLEFT-christ",
+			"fps": 24,
+			"name": "BF NOTE LEFT (christmas)",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-47
+			],
+			"anim": "singDOWN-christ",
+			"fps": 24,
+			"name": "BF NOTE DOWN (christmas)0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-44
+			],
+			"anim": "singUP-christ",
+			"fps": 24,
+			"name": "BF NOTE UP (christmas)0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				8
+			],
+			"anim": "singRIGHT-christ",
+			"fps": 24,
+			"name": "BF NOTE RIGHT (christmas)0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Halu",
+	"position": [
+		0,
+		275
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

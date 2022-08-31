@@ -1,0 +1,265 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whitty sing note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Whitty Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Whitty Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Whitty Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-50
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Sing Right Ballistic",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-50
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Sing Left Ballistic",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-60
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Sing Down Ballistic",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				160
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up Ballistic",
+			"indices": []
+		},
+		{
+			"offsets": [
+				105,
+				710
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Whitty in eruption"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eruption",
+	"position": [
+		-90,
+		250
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		70,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

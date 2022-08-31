@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-190,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Ballistic Ice Sing Left "
+		},
+		{
+			"offsets": [
+				-154,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Ballistic Ice Sing Down "
+		},
+		{
+			"offsets": [
+				-185,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Ballistic Ice Sing Up"
+		},
+		{
+			"offsets": [
+				-208,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Ballistic Ice Sing Right"
+		},
+		{
+			"offsets": [
+				-165,
+				0
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Ballistic Ice Idle "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				529
+			],
+			"anim": "Powerup",
+			"fps": 24,
+			"name": "BF Ballistic ice Powerup ",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-196,
+				42
+			],
+			"anim": "Hit",
+			"fps": 24,
+			"name": "BF Ballistic Ice HIT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ballistic sprites/BF Ice Ballistic",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "BF Flame",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		51,
+		0
+	],
+	"camera_position": [
+		23,
+		-16
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

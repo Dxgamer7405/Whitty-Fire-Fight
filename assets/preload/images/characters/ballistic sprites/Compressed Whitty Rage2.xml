@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Compressed Whitty Rage2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whitty Ballistic Scream0000" x="0" y="0" width="1835" height="1108"/>
+	<SubTexture name="Whitty Ballistic Scream0001" x="1845" y="0" width="1835" height="1108"/>
+	<SubTexture name="Whitty Ballistic Scream0002" x="0" y="1118" width="1835" height="1108"/>
+	<SubTexture name="Whitty Ballistic Scream0003" x="1845" y="1118" width="1835" height="1108"/>
+</TextureAtlas>

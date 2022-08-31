@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				30
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "hitdown",
+			"indices": [],
+			"name": "Whitty Ballistic Hit Down"
+		},
+		{
+			"offsets": [
+				-140,
+				-50
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "slap",
+			"indices": [],
+			"name": "Whttty Ballistic slap"
+		},
+		{
+			"offsets": [
+				30,
+				-30
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "hitright",
+			"indices": [],
+			"name": "Whitty Ballistic Hit Right"
+		},
+		{
+			"offsets": [
+				-60,
+				-88
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "headbutt",
+			"indices": [],
+			"name": "Whitty Headbutt"
+		},
+		{
+			"offsets": [
+				94,
+				-24
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "kick",
+			"indices": [],
+			"name": "Whitty Ballistic Kick"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "Whitty idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aftermath",
+	"position": [
+		-60,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		206,
+		0,
+		44
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

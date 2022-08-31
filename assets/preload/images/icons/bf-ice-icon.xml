@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-ice-icon.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF ice dyin icon0000" x="0" y="0" width="137" height="101"/>
+	<SubTexture name="BF ice dyin icon0001" x="157" y="0" width="137" height="101"/>
+	<SubTexture name="BF ice dyin icon0002" x="314" y="0" width="137" height="101"/>
+	<SubTexture name="BF ice dyin icon0003" x="314" y="0" width="137" height="101"/>
+	<SubTexture name="BF ice dyin icon0004" x="0" y="121" width="137" height="101"/>
+	<SubTexture name="BF ice dyin icon0005" x="0" y="121" width="137" height="101"/>
+	<SubTexture name="BF ice dyin icon0006" x="157" y="121" width="137" height="101"/>
+	<SubTexture name="BF ice dyin icon0007" x="157" y="121" width="137" height="101"/>
+	<SubTexture name="BF ice even icon0000" x="314" y="121" width="136" height="82"/>
+	<SubTexture name="BF ice winning icon 0000" x="0" y="242" width="136" height="82"/>
+</TextureAtlas>

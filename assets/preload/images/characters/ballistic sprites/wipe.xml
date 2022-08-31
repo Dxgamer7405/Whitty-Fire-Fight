@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wipe.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whitty idle dance0003" x="0" y="0" width="654" height="770" frameX="-16" frameY="-36" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty idle dance0004" x="654" y="0" width="665" height="773" frameX="-4" frameY="-33" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty idle dance0007" x="1319" y="0" width="667" height="793" frameX="-1" frameY="-35" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty idle dance0009" x="1986" y="0" width="617" height="840" frameX="-58" frameY="-1" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty idle dance0010" x="2603" y="0" width="618" height="829" frameX="-59" frameY="-15" frameWidth="677" frameHeight="845"/>
+	<SubTexture name="Whitty idle wipe0000" x="3221" y="0" width="626" height="798" frameX="-19" frameY="-4" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0001" x="3847" y="0" width="627" height="803" frameX="-18" frameY="0" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0002" x="4474" y="0" width="607" height="785" frameX="-18" frameY="-18" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0003" x="5081" y="0" width="604" height="782" frameX="-21" frameY="-21" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0004" x="5685" y="0" width="617" height="791" frameX="-21" frameY="-12" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0005" x="6302" y="0" width="631" height="783" frameX="-7" frameY="-20" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0006" x="6933" y="0" width="622" height="765" frameX="-19" frameY="-38" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0007" x="7555" y="0" width="637" height="767" frameX="-4" frameY="-36" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0008" x="0" y="840" width="637" height="776" frameX="-4" frameY="-27" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0009" x="637" y="840" width="641" height="788" frameX="0" frameY="-15" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0010" x="1278" y="840" width="629" height="770" frameX="-12" frameY="-33" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0011" x="1907" y="840" width="618" height="769" frameX="-23" frameY="-34" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0014" x="2525" y="840" width="868" height="700" frameX="-29" frameY="-108" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0015" x="3393" y="840" width="868" height="703" frameX="-29" frameY="-105" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0016" x="4261" y="840" width="857" height="720" frameX="-29" frameY="-88" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0017" x="5118" y="840" width="857" height="725" frameX="-29" frameY="-83" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0018" x="5975" y="840" width="857" height="707" frameX="-29" frameY="-101" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0019" x="6832" y="840" width="850" height="710" frameX="-29" frameY="-98" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0020" x="0" y="1628" width="850" height="715" frameX="-29" frameY="-93" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0021" x="850" y="1628" width="850" height="721" frameX="-29" frameY="-87" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0022" x="1700" y="1628" width="850" height="703" frameX="-29" frameY="-105" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0023" x="2550" y="1628" width="846" height="705" frameX="-29" frameY="-103" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0024" x="3396" y="1628" width="846" height="714" frameX="-29" frameY="-94" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0025" x="4242" y="1628" width="846" height="720" frameX="-29" frameY="-88" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0026" x="5088" y="1628" width="846" height="702" frameX="-29" frameY="-106" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="Whitty idle wipe0027" x="5934" y="1628" width="846" height="705" frameX="-29" frameY="-103" frameWidth="897" frameHeight="808"/>
+</TextureAtlas>

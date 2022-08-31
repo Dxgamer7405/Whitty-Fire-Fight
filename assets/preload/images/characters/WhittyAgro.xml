@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WhittyAgro.png">
+<SubTexture name="Click Agro0000" x="1878" y="819" width="485" height="816" frameX="-75" frameY="-17" frameWidth="583" frameHeight="833" />
+<SubTexture name="Click Agro0001" x="1878" y="0" width="496" height="819" frameX="-80" frameY="-14" frameWidth="583" frameHeight="833" />
+<SubTexture name="Click Agro0002" x="525" y="942" width="387" height="833" frameX="-148" frameY="0" frameWidth="583" frameHeight="833" />
+<SubTexture name="Cold Down Agro0000" x="1327" y="942" width="414" height="826" frameX="0" frameY="-14" frameWidth="415" frameHeight="840" />
+<SubTexture name="Heated Up Agro copy0000" x="912" y="942" width="415" height="832" frameX="0" frameY="-4" frameWidth="415" frameHeight="836" />
+<SubTexture name="Heated Up Agro copy0001" x="912" y="942" width="415" height="832" frameX="0" frameY="-4" frameWidth="415" frameHeight="836" />
+<SubTexture name="Hit Agro 0000" x="0" y="942" width="525" height="836" frameX="-79" frameY="-67" frameWidth="607" frameHeight="903" />
+<SubTexture name="Hit Agro 0001" x="675" y="0" width="602" height="886" frameX="0" frameY="-17" frameWidth="607" frameHeight="903" />
+<SubTexture name="Shock0000" x="2374" y="806" width="526" height="787" frameX="-77" frameY="-68" frameWidth="606" frameHeight="856" />
+<SubTexture name="Shock0001" x="1277" y="0" width="601" height="839" frameX="0" frameY="-17" frameWidth="606" frameHeight="856" />
+<SubTexture name="Shock0002" x="511" y="1778" width="413" height="761" frameX="-71" frameY="-94" frameWidth="606" frameHeight="856" />
+<SubTexture name="Sing Down Agro 0000" x="2958" y="677" width="730" height="670" frameX="-76" frameY="-163" frameWidth="974" frameHeight="851" />
+<SubTexture name="Sing Down Agro 0001" x="2958" y="0" width="807" height="677" frameX="-19" frameY="-157" frameWidth="974" frameHeight="851" />
+<SubTexture name="Sing Left Agro0000" x="924" y="1778" width="603" height="743" frameX="-55" frameY="-61" frameWidth="669" frameHeight="841" />
+<SubTexture name="Sing Left Agro0001" x="1527" y="1778" width="652" height="726" frameX="-11" frameY="-78" frameWidth="669" frameHeight="841" />
+<SubTexture name="Sing Left Agro0002" x="0" y="1778" width="511" height="768" frameX="-106" frameY="-68" frameWidth="669" frameHeight="841" />
+<SubTexture name="Sing Right Agro0000" x="2958" y="1347" width="697" height="644" frameX="-83" frameY="-191" frameWidth="980" frameHeight="846" />
+<SubTexture name="Sing Right Agro0001" x="0" y="2546" width="863" height="656" frameX="-111" frameY="-179" frameWidth="980" frameHeight="846" />
+<SubTexture name="Up Agro0000" x="2374" y="0" width="584" height="806" frameX="-49" frameY="-162" frameWidth="678" frameHeight="987" />
+<SubTexture name="Up Agro0001" x="0" y="0" width="675" height="942" frameX="0" frameY="-28" frameWidth="678" frameHeight="987" />
+</TextureAtlas>

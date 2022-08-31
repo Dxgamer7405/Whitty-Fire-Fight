@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				187,
+				109
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Ice Idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				195,
+				107
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Ice Sing Down  instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				106
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Ice Sing Up  instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				188,
+				109
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Ice Sing Right  instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				109
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Ice Sing Left instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/icebf_sheild",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		255,
+		255
+	],
+	"camera_position": [
+		720,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

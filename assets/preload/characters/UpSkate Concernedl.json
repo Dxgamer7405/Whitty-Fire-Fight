@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "UpSkate left0"
+		},
+		{
+			"offsets": [
+				-23,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "UpSkate right0"
+		},
+		{
+			"offsets": [
+				-3,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpSkate up0"
+		},
+		{
+			"offsets": [
+				-15,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "UpSkate down0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "UpSkate Idle0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				-4
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "UpSkate shoot0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Updike Skate",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "updike",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		90,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

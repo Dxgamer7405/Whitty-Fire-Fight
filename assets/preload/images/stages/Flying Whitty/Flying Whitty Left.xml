@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flying Whitty Left.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flying Whitty left0000" x="0" y="0" width="1282" height="417" frameX="0" frameY="-52" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0001" x="1290" y="0" width="1101" height="387" frameX="-31" frameY="-49" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0002" x="2399" y="0" width="1143" height="423" frameX="-31" frameY="-12" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0003" x="0" y="431" width="1207" height="410" frameX="-50" frameY="-18" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0004" x="1215" y="431" width="1249" height="355" frameX="-50" frameY="-61" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0005" x="2472" y="431" width="1249" height="392" frameX="-50" frameY="-26" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0006" x="0" y="849" width="1101" height="417" frameX="-55" frameY="-16" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0007" x="1109" y="849" width="1143" height="376" frameX="-55" frameY="-55" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0008" x="2260" y="849" width="1207" height="400" frameX="-55" frameY="-28" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0009" x="0" y="1274" width="1250" height="416" frameX="-55" frameY="0" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0010" x="1258" y="1274" width="1249" height="340" frameX="-55" frameY="-78" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0011" x="2515" y="1274" width="1101" height="403" frameX="-55" frameY="-30" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0012" x="0" y="1698" width="1143" height="407" frameX="-55" frameY="-24" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0013" x="1151" y="1698" width="1207" height="378" frameX="-55" frameY="-50" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0014" x="2366" y="1698" width="1250" height="403" frameX="-55" frameY="-13" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0015" x="0" y="2113" width="1249" height="400" frameX="-55" frameY="-18" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0016" x="1257" y="2113" width="1101" height="372" frameX="-55" frameY="-61" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0017" x="2366" y="2113" width="1143" height="405" frameX="-55" frameY="-26" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0018" x="0" y="2526" width="1207" height="412" frameX="-55" frameY="-16" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0019" x="1215" y="2526" width="1250" height="361" frameX="-55" frameY="-55" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0020" x="2473" y="2526" width="1249" height="390" frameX="-55" frameY="-28" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0021" x="0" y="2946" width="1101" height="433" frameX="-55" frameY="0" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0022" x="1109" y="2946" width="1143" height="353" frameX="-55" frameY="-78" frameWidth="1305" frameHeight="469"/>
+	<SubTexture name="Flying Whitty left0023" x="2260" y="2946" width="1207" height="398" frameX="-55" frameY="-30" frameWidth="1305" frameHeight="469"/>
+</TextureAtlas>

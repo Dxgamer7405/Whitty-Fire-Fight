@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crazy.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whitty Ballistic Scream copy0000" x="0" y="0" width="1406" height="1521" frameX="-107373369" frameY="-107373203" frameWidth="214748340" frameHeight="214748340"/>
+	<SubTexture name="Whitty Ballistic Scream copy0001" x="1407" y="0" width="1516" height="1403" frameX="-107373328" frameY="-107373350" frameWidth="214748340" frameHeight="214748340"/>
+	<SubTexture name="Whitty Ballistic Scream copy0002" x="2924" y="0" width="1625" height="1552" frameX="-107373287" frameY="-107373270" frameWidth="214748340" frameHeight="214748340"/>
+	<SubTexture name="Whitty Ballistic Scream copy0003" x="4550" y="0" width="1770" height="1687" frameX="-107373210" frameY="-107373203" frameWidth="214748340" frameHeight="214748340"/>
+	<SubTexture name="Whitty Ballistic Scream copy0004" x="6321" y="0" width="1406" height="1374" frameX="-107373369" frameY="-107373350" frameWidth="214748340" frameHeight="214748340"/>
+	<SubTexture name="Whitty Ballistic Scream copy0005" x="0" y="1688" width="1516" height="1483" frameX="-107373328" frameY="-107373270" frameWidth="214748340" frameHeight="214748340"/>
+	<SubTexture name="Whitty Ballistic Scream copy0006" x="1517" y="1688" width="1625" height="1619" frameX="-107373287" frameY="-107373203" frameWidth="214748340" frameHeight="214748340"/>
+</TextureAtlas>

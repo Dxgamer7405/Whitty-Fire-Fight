@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ice Shiled 2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ice Shield 2 Exit0000" x="0" y="0" width="345" height="262" frameX="-112" frameY="0" frameWidth="593" frameHeight="270"/>
+	<SubTexture name="Ice Shield 2 Exit0001" x="353" y="0" width="409" height="158" frameX="-87" frameY="-102" frameWidth="593" frameHeight="270"/>
+	<SubTexture name="Ice Shield 2 Exit0002" x="0" y="270" width="528" height="92" frameX="-29" frameY="-171" frameWidth="593" frameHeight="270"/>
+	<SubTexture name="Ice Shield 2 Exit0003" x="0" y="270" width="528" height="92" frameX="-29" frameY="-171" frameWidth="593" frameHeight="270"/>
+	<SubTexture name="Ice Shield 2 Exit0004" x="0" y="370" width="593" height="106" frameX="0" frameY="-164" frameWidth="593" frameHeight="270"/>
+	<SubTexture name="Ice Shield 2 Exit0005" x="0" y="370" width="593" height="106" frameX="0" frameY="-164" frameWidth="593" frameHeight="270"/>
+	<SubTexture name="Ice Shield 2 Exit0006" x="601" y="370" width="0" height="0" frameX="248" frameY="60" frameWidth="593" frameHeight="270"/>
+	<SubTexture name="Ice Shield 2 Idle0000" x="609" y="370" width="0" height="0" frameX="363" frameY="47" frameWidth="340" frameHeight="275"/>
+	<SubTexture name="Ice Shield 2 Idle0001" x="617" y="370" width="218" height="150" frameX="-61" frameY="-98" frameWidth="340" frameHeight="275"/>
+	<SubTexture name="Ice Shield 2 Idle0002" x="0" y="528" width="340" height="275"/>
+</TextureAtlas>

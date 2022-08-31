@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF Flame Click.png">
+<SubTexture name="BF Flame Click0000" x="1241" y="412" width="409" height="407" frameX="-29" frameY="-9" frameWidth="441" frameHeight="417" />
+<SubTexture name="BF Flame Click0001" x="0" y="834" width="435" height="403" frameX="0" frameY="-13" frameWidth="441" frameHeight="417" />
+<SubTexture name="BF Flame Click0002" x="1241" y="0" width="421" height="412" frameX="-10" frameY="-5" frameWidth="441" frameHeight="417" />
+<SubTexture name="BF Flame Click0003" x="0" y="0" width="422" height="417" frameX="-12" frameY="0" frameWidth="441" frameHeight="417" />
+<SubTexture name="BF Flame Click0004" x="422" y="0" width="423" height="417" frameX="-12" frameY="0" frameWidth="441" frameHeight="417" />
+<SubTexture name="BF Flame Click0005" x="0" y="417" width="422" height="417" frameX="-12" frameY="0" frameWidth="441" frameHeight="417" />
+<SubTexture name="BF Flame Click0006" x="422" y="417" width="403" height="417" frameX="-36" frameY="0" frameWidth="441" frameHeight="417" />
+<SubTexture name="BF Flame Click0007" x="845" y="0" width="396" height="417" frameX="-36" frameY="0" frameWidth="441" frameHeight="417" />
+</TextureAtlas>

@@ -1,0 +1,276 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-13,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-15,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-36,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-45,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF Ice HEY!! "
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				17,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Ice Sing Left0"
+		},
+		{
+			"offsets": [
+				-17,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Ice Sing Right 0"
+		},
+		{
+			"offsets": [
+				21,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Ice Sing Up 0"
+		},
+		{
+			"offsets": [
+				-16,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF Ice stunned"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				57
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BF Ice Sing Down Tired",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "BF Ice Sing Left Tired",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				46
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "BF Ice Sing Up Tired",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Ice Idle0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-43,
+				-27
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "BF Ice Idle Tired",
+			"indices": []
+		},
+		{
+			"offsets": [
+				993,
+				373
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "throw",
+			"indices": [],
+			"name": "BF Ice Bomb Throw"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BF Ice Sing Right  Tired",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Ice Sing Down 0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hit1",
+			"loop": false,
+			"name": "BF Ice hit"
+		},
+		{
+			"offsets": [
+				-17,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hit2",
+			"loop": false,
+			"name": "BF Ice HIT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF Ice",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		255,
+		255
+	],
+	"camera_position": [
+		720,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

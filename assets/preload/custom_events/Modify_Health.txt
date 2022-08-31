@@ -1,0 +1,5 @@
+Modifies health with different signals
+
+Value 1: Amount to change
+Value 2: Signal to use (0,1,2 and 3 are respectively 
++,-,* and /)

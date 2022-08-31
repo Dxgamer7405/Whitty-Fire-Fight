@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fire Wall.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flame wall0000" x="0" y="0" width="2359" height="559" frameX="-27" frameY="-11" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0001" x="2369" y="0" width="2334" height="570" frameX="-27" frameY="0" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0002" x="4713" y="0" width="2361" height="570" frameX="0" frameY="0" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0003" x="4713" y="0" width="2361" height="570" frameX="0" frameY="0" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0004" x="0" y="580" width="2361" height="570" frameX="0" frameY="0" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0005" x="2371" y="580" width="2351" height="559" frameX="-20" frameY="-11" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0006" x="2371" y="580" width="2351" height="559" frameX="-20" frameY="-11" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0007" x="4732" y="580" width="2351" height="559" frameX="-20" frameY="-11" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0008" x="0" y="1160" width="2358" height="559" frameX="-24" frameY="-11" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0009" x="0" y="1160" width="2358" height="559" frameX="-24" frameY="-11" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0010" x="2368" y="1160" width="2341" height="570" frameX="-24" frameY="0" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0011" x="4719" y="1160" width="2332" height="570" frameX="-33" frameY="0" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0012" x="4719" y="1160" width="2332" height="570" frameX="-33" frameY="0" frameWidth="2386" frameHeight="570"/>
+	<SubTexture name="Flame wall0013" x="0" y="1740" width="2332" height="570" frameX="-33" frameY="0" frameWidth="2386" frameHeight="570"/>
+</TextureAtlas>

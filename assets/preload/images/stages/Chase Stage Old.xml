@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chase Stage.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stage 10000" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10001" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10002" x="1743" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10003" x="3486" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10004" x="5229" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10005" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10006" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10007" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10008" x="0" y="975" width="1735" height="967"/>
+	<SubTexture name="Stage 10009" x="1743" y="975" width="1735" height="967"/>
+	<SubTexture name="Stage 10010" x="3486" y="975" width="1735" height="967"/>
+	<SubTexture name="Stage 10011" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10012" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10013" x="5229" y="975" width="1735" height="967"/>
+	<SubTexture name="Stage 10014" x="0" y="1950" width="1735" height="967"/>
+	<SubTexture name="Stage 10015" x="1743" y="1950" width="1735" height="967"/>
+	<SubTexture name="Stage 10016" x="3486" y="1950" width="1735" height="967"/>
+	<SubTexture name="Stage 10017" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10018" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10019" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10020" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10021" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10022" x="5229" y="1950" width="1735" height="967"/>
+	<SubTexture name="Stage 10023" x="0" y="2925" width="1735" height="967"/>
+	<SubTexture name="Stage 10024" x="1743" y="2925" width="1735" height="967"/>
+	<SubTexture name="Stage 10025" x="3486" y="2925" width="1735" height="967"/>
+	<SubTexture name="Stage 10026" x="5229" y="2925" width="1735" height="967"/>
+	<SubTexture name="Stage 10027" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10028" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10029" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10030" x="0" y="3900" width="1735" height="967"/>
+	<SubTexture name="Stage 10031" x="1743" y="3900" width="1735" height="967"/>
+	<SubTexture name="Stage 10032" x="3486" y="3900" width="1735" height="967"/>
+	<SubTexture name="Stage 10033" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10034" x="0" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10035" x="1743" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10036" x="3486" y="0" width="1735" height="967"/>
+	<SubTexture name="Stage 10037" x="5229" y="0" width="1735" height="967"/>
+</TextureAtlas>

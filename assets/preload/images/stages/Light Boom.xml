@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Light Boom.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Unmasking Light Boom0000" x="0" y="0" width="376" height="199" frameX="-169" frameY="-89" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0001" x="384" y="0" width="382" height="202" frameX="-166" frameY="-87" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0002" x="774" y="0" width="388" height="205" frameX="-163" frameY="-86" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0003" x="1170" y="0" width="394" height="208" frameX="-160" frameY="-84" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0004" x="1572" y="0" width="398" height="211" frameX="-158" frameY="-83" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0005" x="1978" y="0" width="404" height="214" frameX="-155" frameY="-81" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0006" x="2390" y="0" width="410" height="217" frameX="-152" frameY="-80" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0007" x="2808" y="0" width="416" height="219" frameX="-149" frameY="-79" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0008" x="3232" y="0" width="420" height="223" frameX="-147" frameY="-77" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0009" x="3660" y="0" width="426" height="225" frameX="-144" frameY="-76" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0010" x="0" y="233" width="432" height="229" frameX="-141" frameY="-74" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0011" x="440" y="233" width="438" height="231" frameX="-138" frameY="-73" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0012" x="886" y="233" width="444" height="234" frameX="-135" frameY="-71" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0013" x="1338" y="233" width="448" height="237" frameX="-133" frameY="-70" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0014" x="1794" y="233" width="454" height="240" frameX="-130" frameY="-68" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0015" x="2256" y="233" width="460" height="243" frameX="-127" frameY="-67" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0016" x="2724" y="233" width="466" height="246" frameX="-124" frameY="-65" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0017" x="3198" y="233" width="471" height="249" frameX="-122" frameY="-64" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0018" x="0" y="490" width="476" height="252" frameX="-119" frameY="-62" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0019" x="484" y="490" width="482" height="255" frameX="-116" frameY="-61" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0020" x="974" y="490" width="488" height="257" frameX="-113" frameY="-60" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0021" x="1470" y="490" width="494" height="261" frameX="-110" frameY="-58" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0022" x="1972" y="490" width="498" height="263" frameX="-108" frameY="-57" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0023" x="2478" y="490" width="504" height="267" frameX="-105" frameY="-55" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0024" x="2990" y="490" width="510" height="269" frameX="-102" frameY="-54" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0025" x="3508" y="490" width="516" height="272" frameX="-99" frameY="-52" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0026" x="0" y="770" width="521" height="275" frameX="-97" frameY="-51" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0027" x="529" y="770" width="526" height="278" frameX="-94" frameY="-49" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0028" x="1063" y="770" width="532" height="281" frameX="-91" frameY="-48" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0029" x="1603" y="770" width="538" height="284" frameX="-88" frameY="-46" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0030" x="2149" y="770" width="543" height="287" frameX="-86" frameY="-45" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0031" x="2700" y="770" width="548" height="290" frameX="-83" frameY="-43" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0032" x="3256" y="770" width="554" height="293" frameX="-80" frameY="-42" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0033" x="0" y="1071" width="560" height="296" frameX="-77" frameY="-40" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0034" x="568" y="1071" width="566" height="299" frameX="-74" frameY="-39" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0035" x="1142" y="1071" width="571" height="301" frameX="-72" frameY="-38" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0036" x="1721" y="1071" width="576" height="305" frameX="-69" frameY="-36" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0037" x="2305" y="1071" width="582" height="307" frameX="-66" frameY="-35" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0038" x="2895" y="1071" width="588" height="310" frameX="-63" frameY="-33" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0039" x="3491" y="1071" width="593" height="313" frameX="-61" frameY="-32" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0040" x="0" y="1392" width="599" height="316" frameX="-58" frameY="-30" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0041" x="607" y="1392" width="604" height="319" frameX="-55" frameY="-29" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0042" x="1219" y="1392" width="610" height="322" frameX="-52" frameY="-27" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0043" x="1837" y="1392" width="616" height="325" frameX="-49" frameY="-26" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0044" x="2461" y="1392" width="621" height="328" frameX="-47" frameY="-24" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0045" x="3090" y="1392" width="626" height="331" frameX="-44" frameY="-23" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0046" x="0" y="1731" width="632" height="334" frameX="-41" frameY="-21" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0047" x="640" y="1731" width="638" height="337" frameX="-38" frameY="-20" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0048" x="1286" y="1731" width="643" height="339" frameX="-36" frameY="-19" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0049" x="1937" y="1731" width="649" height="343" frameX="-33" frameY="-17" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0050" x="2594" y="1731" width="654" height="345" frameX="-30" frameY="-16" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0051" x="3256" y="1731" width="660" height="348" frameX="-27" frameY="-14" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0052" x="0" y="2087" width="666" height="351" frameX="-24" frameY="-13" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0053" x="674" y="2087" width="671" height="354" frameX="-22" frameY="-11" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0054" x="1353" y="2087" width="676" height="357" frameX="-19" frameY="-10" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0055" x="2037" y="2087" width="682" height="360" frameX="-16" frameY="-8" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0056" x="2727" y="2087" width="688" height="363" frameX="-13" frameY="-7" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0057" x="0" y="2458" width="693" height="366" frameX="-11" frameY="-5" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0058" x="701" y="2458" width="699" height="369" frameX="-8" frameY="-4" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0059" x="1408" y="2458" width="704" height="372" frameX="-5" frameY="-2" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0060" x="2120" y="2458" width="710" height="375" frameX="-2" frameY="-1" frameWidth="715" frameHeight="377"/>
+	<SubTexture name="Unmasking Light Boom0061" x="2838" y="2458" width="715" height="377"/>
+</TextureAtlas>
