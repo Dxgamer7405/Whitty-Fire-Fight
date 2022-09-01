@@ -4773,11 +4773,14 @@ class PlayState extends MusicBeatState
 			}
 		}
 
-		for (i in 0...closeLuas.length) {
-			luaArray.remove(closeLuas[i]);
-			closeLuas[i].stop();
+			// had to do this because there is a bug in haxe where Stop != Continue doesnt work
+			var bool:Bool = ret == FunkinLua.Function_Continue;
+			if(!bool) {
+				returnVal = ret;
+			}
 		}
 		#end
+		//trace(event, returnVal);
 		return returnVal;
 	}
 
